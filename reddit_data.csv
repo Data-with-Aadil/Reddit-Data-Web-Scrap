@@ -1,0 +1,1138 @@
+date,title,description,author,comments,score,url
+1682859752.0,Fake giveaways by Intel official accounts,"Intel never delivered my $1.500+ giveaway prize that was supposed to arrive in January. Hibbertgroup says they lost it in a warehouse, and Intel socials keep telling me that their partners are responsible and don’t care for it. 🫤 There are tons of similar complaints from other users. Does Intel ever actually deliver prizes? And focus on the complaints at IntelGaming subred first?
+
+[Full thread here &gt;](https://www.reddit.com/r/intel/comments/11weqb5/intel_gaming_access_awaiting_prize_from_giveaway/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=ioscss&amp;utm_content=1&amp;utm_term=1)",KingDaCosta,20,89,https://old.reddit.com/r/intel/comments/133p36u/fake_giveaways_by_intel_official_accounts/
+1643048367.0,AMA Thursday January 27th 8:30am to 3:00 pm PST - 12th Gen Intel® Core™ H-Series Processors,,LexHoyos42,4,26,https://i.redd.it/k27p7ngxfod81.jpg
+1611782156.0,Intel Appoints Sunil Shenoy as Senior Vice President of Design Engineering Group | Intel Newsroom,,LexHoyos42,10,40,https://newsroom.intel.com/news-releases/intel-appoints-sunil-shenoy-senior-vice-president-design-engineering-group/
+1601570437.0,AMA Today 10am PST - What is like to be a Tech Enthusiast and work at intel in the gaming industry,"Good morning r/intel!
+
+We get asked many times by tech enthusiasts and gamers, what is it like to work in gaming at Intel and how we got into it in the first place, that we decided to have a few of our engineering gaming folks available to answer your questions on:
+
+· How they got to their current job
+
+· What’s their education background
+
+· How game developers benefit by working with Intel
+
+· What advice and support Intel offers to game developers
+
+· Among others
+
+Some background of today’s AMA experts
+
+**Aaron McGavock**: I started at Intel in Jan of 99 working on the then-new Pentium II program (and gaming on those systems in the lab... mostly Tribes and Pod Racer). Some notable projects that I led were Devil's Canyon (4790K), Intel Turbo Boost Max Technology 3.0, the i9-9900KS, the i9-9990XE and Intel Performance Maximizer. My current rig is currently an i9 Ghost Canyon NUC and I'm still a Battlefield 4 and 1 hold out and am looking forward to play Avengers.
+
+**Regina Wu:** Hi I’m Regina Wu, and I’ve been working in gaming at Intel for 17 years. I worked in performance benchmarking for most of that time and recently moved into architectural analysis. I love interesting indie games so I’m often trying something new. I have a couple of rigs for PC games, including desktop with an i7-8700K and GTX 1080Ti, a gaming notebook with i7-7700HQ and a GTX1060, and a Hades Canyon NUC (all placed in different locations around the house 😊).
+
+**Brain Harvey:** My career in gaming began in '97 with the creation of NVIDIA’s original compatibility lab and then it evolved into Technology Evangelism/Account Management. During my career, I spent time launching the original cloud gaming platform of OnLive and was part of the core team at PlayStation. I’ve spent the last 5 years at Intel building partnerships with different game publishers.
+
+**Mark Subotnick:** People call me Bot, I have been in games since 1993. I started my gaming career at SEGA of America, as a tester and working in various roles. I joined Microsoft in 2002 and began to work on Xbox, Xbox Live, Games for Windows, and eventually Xbox 360. I left Microsoft in 2007 to join Intel as the Executive Producer of Project Offset and the Game Engine Team. I have been a gamer all my life, and I am lucky to be working on games at Intel! My main gaming DT is a i7-5960X with a Titan, time for a new build indeed.
+
+**David Nassau** I am Product Marketing Manager for PC Gaming on the Client Application Showcase Team. I help internal teams work closely with game publishers to showcase game optimizations, software proof points and new hardware usages on Intel Products. In addition to Video Games, I also enjoy scuba diving, photography, competing in IRONMAN Triathlons and backpacking through countries that I don’t the local  language know the local language
+
+**Here are some questions to get this AMA going!**
+
+**· What is your background, what did you study?**
+
+o **Aaron McGavock**: I have an undergrad degree in Chemical Engineering, with an emphasis in thin films. I did post-grad work at Stanford while at Intel in Management Science Engineering.
+
+o **Alex Hoyos:** I have an undergrad and masters degree in Electrical Engineering and went into the Dark-Side and got me another degree related to marketing.
+
+· What are a few things that Intel brings to the table when working with gaming developers?
+
+o We work very close with our gaming developer partners and one of the things that we do is provide them with a bunch of different tools that help analyze and fine tune their game at different levels. These tools go from graphics performance analyzers to multi-thread optimizers, to game engine optimization between CPU and GPU.
+
+**· What advice and support Intel offers to game developers?**
+
+o Besides providing them with tools we also have team of engineers that work as a support team with gaming developers in helping them best utilize the hardware in which the game will be run on. We also work very closely with many indie developers in which our marketing team helps them advertise, promote and sell their game in through different channels in different countries.
+
+**· Tell us more about you and gaming?**
+
+o **Brain** **Harvey:** My passion for video games runs deep and is part of my DNA. As a kid, I couldn’t afford the NES or other gaming platforms, so I used to dumpster dive and collect aluminum cans to make enough money to buy the latest games/platforms. I lived and breathed gaming. While I don’t game 30+ hours a week like I used to, I still game when I can. I can be found in seasonal Diablo 3 (Necromancer or bust) and, more recently, in Marvels Avengers with my children.
+
+o **David Nassau:** I casually streams Call of Duty: Warzone, Red Dead Redemption 2, and Marvel’s Avengers on Facebook ([@TheDavidNassau](https://www.facebook.com/TheDavidNassau)). though my favorite gaming franchise is Total War. David has also been a Professional Hopscotcher and a champion of Multiple Sclerosis since 2010. I founded ‘Hopping 4 A Cure’, a 501©3 nonprofit that raises thousands of dollars each year by hosting the Recess Olympics and Hopscotch Tournaments for those affected MS across the United States.
+
+**We’re happy to answer your questions, Let’s get started!**",LexHoyos42,28,72,https://old.reddit.com/r/intel/comments/j3c513/ama_today_10am_pst_what_is_like_to_be_a_tech/
+1599061634.0,Live Blog: Intel Launch Event 2020 | Intel Newsroom,"Follow our live blog of today’s Intel technology launch event. We’ll learn how laptop performance and experiences are evolving
+
+ [https://newsroom.intel.com/news/intel-launch-event-2020-live-blog/](https://newsroom.intel.com/news/intel-launch-event-2020-live-blog/) 
+
+[https://newsroom.intel.com/news-releases/11th-gen-tiger-lake-evo/](https://newsroom.intel.com/news-releases/11th-gen-tiger-lake-evo/)
+
+[https://newsroom.intel.com/press-kits/11th-gen-launch/](https://newsroom.intel.com/press-kits/11th-gen-launch/)
+
+&amp;#x200B;",LexHoyos42,2,1,https://old.reddit.com/r/intel/comments/il99r3/live_blog_intel_launch_event_2020_intel_newsroom/
+1628261309.0,TODAY! AMA NUC 11 Extreme Kit - Join us (Aug 6th 8:00am to 2:00pm PDT),"Good morning r/intel! 
+
+The Intel® NUC 11 Extreme Kit (code-named “Beast Canyon”) has officially launched, a highly modular desktop PC in and 8-liter chassis with the next generation of the Compute Element. Come one over and bring your NUC questions
+
+**The experts on the thread:**
+
+* **Lisa:** Manages the marketing activities for gaming NUCs
+* **Joel:** Conceptualizes the design and features sets of new NUCs
+* **Ray:** The Tech guru for the NUC
+* **Justin:** Expert on the gaming Ecosystem
+
+ **Here some quick articles about the Intel® NUC 11 Extreme Kit:**
+
+PCMag: [https://www.pcmag.com/reviews/intel-nuc-11-extreme-kit-beast-canyon](https://www.pcmag.com/reviews/intel-nuc-11-extreme-kit-beast-canyon) 
+
+Tweaktown: [https://www.tweaktown.com/reviews/9877/intel-nuc-11-extreme-beast-canyon/index.html](https://www.tweaktown.com/reviews/9877/intel-nuc-11-extreme-beast-canyon/index.html)
+
+&amp;#x200B;
+
+https://preview.redd.it/iu2y12ol2rf71.jpg?width=7666&amp;format=pjpg&amp;auto=webp&amp;v=enabled&amp;s=8c781ca14f1704df3e51f3b410d9129f6e0a8b4e
+
+**Some background questions:**
+
+**What is Intel NUC?**
+
+o Intel’s Next Unit of Computing. The Intel NUC is a small form factor PC with the same capabilities as full desktop towers and provides new opportunities for PCs by bringing them into non-traditional spaces.
+
+**What is the Intel Compute Element?** 
+
+o The Intel NUC Compute Element is a modular component that packs the latest processor and technologies from Intel. Customers can integrate the compute element into their own chassis to quickly build their own gaming rig.
+
+&amp;#x200B;
+
+https://preview.redd.it/15j8ueyp2rf71.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;v=enabled&amp;s=299df122c3e3ee9baf18e90ba5e4497297bc8232
+
+**Is the 11th Gen Compute Element compatible with existing ‘Ghost Canyon’ systems?**
+
+The 11th Gen Compute Element Extreme is compatible with Ghost Canyon however there were some design decisions necessary that remove certain features such as front panel audio. PCIe Gen4 is also not a certain guarantee when using the 11th Gen Element in the Ghost Canyon chassis. The thermal performance may also be somewhat limited by lack of proper baffling in place.
+
+Alright - your turn! Ask away.",LexHoyos42,39,32,https://old.reddit.com/r/intel/comments/oz84kb/today_ama_nuc_11_extreme_kit_join_us_aug_6th/
+1604951791.0,Date Correction -&gt; AMA November 11th @ 8:30am- 2pm PST - Something Cool is coming from EKWB and Intel,,LexHoyos42,9,9,https://i.redd.it/fzvegfnzr9y51.png
+1675812201.0,Intel Discord Office Hours: Sapphire Rapids Workstation Chat,,LexHoyos42,9,27,https://i.redd.it/qz2sptg6ouga1.jpg
+1614112497.0,Rocket Lake - PCIe Gen 4 performance number [Ryan Shrout],,LexHoyos42,16,17,https://twitter.com/ryanshrout/status/1364310535987027970
+1636057226.0,[deleted by user],[removed],[deleted],5,50,
+1603382947.0,Intel's power play: We dive into the new ATX 12VO spec,,LexHoyos42,4,9,https://www.pcworld.com/video/105480/intels-power-play-we-dive-into-the-new-atx-12vo-spec
+1610386864.0,"Intel teases Rocket Lake-S, Tiger Lake-H, Alder Lake-S and Ice Lake-SP - VideoCardz.com",,ryandtw,32,33,https://videocardz.com/newz/intel-teases-rocket-lake-s-tiger-lake-h-alder-lake-s-and-ice-lake-sp
+1617358259.0,Intel awkwardly forgot to release graphics drivers for Rocket Lake,[deleted],[deleted],71,371,
+1602087188.0,Intel Desktop VP confirms in Blog that Rocket Lake will support PCIe 4.0,[https://medium.com/intel-tech/intels-commitment-to-gaming-and-a-sneak-peek-at-intel-technology-to-come-83677833be7f](https://medium.com/intel-tech/intels-commitment-to-gaming-and-a-sneak-peek-at-intel-technology-to-come-83677833be7f),LexHoyos42,29,30,https://old.reddit.com/r/intel/comments/j6tr4c/intel_desktop_vp_confirms_in_blog_that_rocket/
+1605110417.0,AMA Today! @ 8:30am- 2pm PST - Something Cool is coming from EKWB and Intel,"Good morning r/intel!
+
+We are very excited to share with the community the launch of the QuantumX Delta TEC Water Block Featuring Intel® Cryo Cooling Technology. This was a joint design effort between Intel and EKWB engineers!
+
+This cooler is the first practical application of cooling the CPU with sub-ambient temperatures by utilizing a Thermoelectric Cooler (TEC) plate while continuously monitoring and adjusting temperatures dynamically, achieving an ideal operating environment for sustained gaming performance.
+
+The EK-QuantumX Delta TEC is exclusively powered by Intel® Cryo Cooling Technology, a unique combination of hardware, software, and firmware designed to help unleash elite performance for gamers and overclockers.
+
+**More info from Intel and EKWB:**
+
+EK Waterblocks:
+
+[https://www.ekwb.com/custom-loop/quantumx-delta-tec-sub-ambient-cooling/](https://www.ekwb.com/custom-loop/quantumx-delta-tec-sub-ambient-cooling/)
+
+Intel Cryo Cooling Landing page:
+
+[https://www.intel.com/content/www/us/en/products/docs/processors/core/cryo-cooling.html](https://www.intel.com/content/www/us/en/products/docs/processors/core/cryo-cooling.html)
+
+&amp;#x200B;
+
+**Some background of today’s AMA experts**
+
+**Rok Dolinar**: I have been working as a R&amp;D engineer in EKWB for 7 years, so I had a chance to see most of the company's growth towards what it is now. Lately I am more and more involved in strategical part of product development but still I love to design, make and test new products. Besides work I also like to do all kinds of sports and hang out with my family and friends.
+
+**Jure Močnik:** I have been working as a R&amp;D engineer in EKWB for 1 year. Regardless of the fact that I am relatively new to the company, I already have a lot of experience in design of various products. My previous Experiences area comes from the automotive industry. Besides working I like to play volleyball, ride bike and hang out with my family and friends 😊
+
+**Mark MacDonald**: I am a principal engineer in Intel’s Client Computing Group and works on thermal technology development. I also teach Heat Transfer at Portland State University and spends a lot of time tinkering with technology with his twin 12 year-old daughters.
+
+**Felipe Gonzalez:** I am an engineering director at Intel for Ecosystem Technology Development.   I have spent most of my career working on technologies to evolve the platform capabilities of the PC platform, ranging from graphics, BIOS, firmware, board design and system level power management optimization.
+
+**Here are some questions to get this AMA going!**
+
+**Is this product also compatible with new generation of processors?**
+
+The liquid cooling subsystem works with Intel 10th generation K seriesprocessors:• Intel® Core™ i9-10900K• Intel® Core™ i9-10850K• Intel® Core™ i7-10700K• Intel® Core™ i5-10600K
+
+**Is there some possibility to installed stronger TEC plate if it’s available in the future to use it onthis WB?**
+
+EKWB and Intel are looking for solutions to find a more powerful TEC plate. Some options are possible but more detailed testing needs to be done.
+
+**What is the goal of Quantum X Delta TECs?**
+
+Cryo Cooling and OC TVB with cooperation QuantumX Delta TEC WB is a new approach tooverclocking.  The goal is not maximum power, the goal is to reach maximum frequency.The maximum frequency is enabled when the silicon is as cold as possible which is done with the help of liquid cooling and TEC plate.
+
+**What were the obstacles during product design?**
+
+Guys from intel did a remarkable job on making a proof of concept so we just had to design theliquid cooling side from scratch and define all the curvatures of mating surfaces. We all know that itis important to have the best possible thermal contact between all the parts in assembly. In this product there are three such contacts so if we wouldn't get them just right, the performance loss adds up exponentially. Another challenge was on how to properly seal and insulate the product to avoid condensation when components reach temperatures below dew point. We had to find the right materials and production technology combo to achieve the best solution for the given functionality, space and constraints.
+
+**What are the technology limitations when you look at the cooling solution?**
+
+Limitation is just in TEC plate power specification. Currently it is able to steadily extract about 200Wof thermal power. If we want to go above that we would need to improve its efficiency or move to amore powerful plates which means that we need a stronger power supply. Also, the solution itself has larger footprint. The key was to find a balance between all those factors. In future we will be able to get TEC plates with bigger efficiency, use different thermal joints and improve product usability for different use cases.
+
+**We’re happy to answer your questions, Let’s get started!**
+
+&amp;#x200B;
+
+edit: Added Felipe's BIO",LexHoyos42,39,19,https://old.reddit.com/r/intel/comments/jsap2q/ama_today_830am_2pm_pst_something_cool_is_coming/
+1603980633.0,Fresh new (confirmed!) details on Intel’s 11th Gen Desktop Processor (Rocket Lake-S) Architecture,"**TL;DR at the bottom if you are in a hurry**
+
+Thanks for going above-and-beyond Skylake. Enjoy your well-earned retirement!
+
+Rocket Lake it’s here (well Q1, 2021) and it comes with a whole new desktop architecture called Cypress Cove. It is on our fine-tuned 14nm technology, so be excited for the clock speeds!
+
+The new Cypress Cove architecture is an adaptation of the Ice Lake Sunny Cove Core and the new enhanced Intel UHD graphics featuring Intel Xe architecture (from Tiger Lake). The CPU &amp; iGPU are not \*literally\* fused, just think of it more of grabbing a Lego block from here and another block from over there and put them together (easier said than done).
+
+The top of the stack processor will come with 8 cores / 16 threads. “What?! 8 Cores?” Yes, we’re going octa-core by design this time around and focusing on IPC improvements and having an optimal balance of frequency, cores and threads. We know that core count is one commonly used measure of broader computing experience, but we also know that most applications scale with frequency and that’s why we focus on it and IPC.
+
+Rocket Lake will enable double-digit percentage IPC performance improvement gen-over-gen on desktop (It’s ok, we understand if you would like to wait for 3rd party numbers). This also means that the processor will deliver enhanced Intel® UHD™ graphics featuring the Intel® Xe Graphics architecture.
+
+Another new feature that comes on the Rocket Lake platform is having 20 CPU PCIe Gen 4.0 lanes (4 more lanes than current products, with more bandwidth) - you might have seen already that there is support on for PCI-e 4 on some Z490 motherboards. Intel® Quick Sync Video is also in there offering better video transcoding and hardware acceleration for latest codecs and the best part is that it is not disabled when you add a discrete graphics card to the platform.  On the overclocking front there are quite a few new cool features and knobs coming but that’s the secret sauce so stay tuned for those details. (We can’t give it all away here today.)
+
+Thus, we say farewell to close friend (architecture) who has been with us for the better of 6 years and we say hello to something completely new and promising!
+
+Here is a link to the news room:
+
+[https://newsroom.intel.com/news/intels-11th-gen-processor-rocket-lake-s-architecture-detailed/#gs.jykffq](https://newsroom.intel.com/news/intels-11th-gen-processor-rocket-lake-s-architecture-detailed/#gs.jykffq)
+
+**TL;DR / Summary:**
+
+* Rocket      Lake has a new Cypress Cove architecture featuring Ice Lake Core      architecture and Tiger Lake Graphics architecture.
+* Up      to 8 Cores / 16 Threads
+* Double-digit      percentage IPC performance      improvement.
+* Up      to 20 CPU PCIe 4.0 lanes for more bandwidth and configuration flexibility.
+* Enhanced      Intel UHD graphics featuring Intel Xe Graphics architecture
+* Intel®      Quick Sync Video, offering better video transcoding and hardware      acceleration for latest codecs.
+* New      overclocking features for more flexible tuning performance (can’t give out the secret sauce just      on which features just yet).
+* Intel®      Deep Learning Boost and VNNI support​.
+
+&amp;#x200B;
+
+# MORE INFO
+
+# Decoder
+
+# 1x 4k60 8b 4:2:0 AVC
+
+# 4K60 12b 4:2:2/4:4:4 HEVC/VP9/SCC
+
+# 4K60 10b 4:2:0 AV1
+
+# Encode
+
+# 4K60 8b 4:2:0 AVC
+
+# 4K60 10b 4:4:4 HEVC/SCC/VP9, RA
+
+&amp;#x200B;
+
+Edit: Added launch time frame -&gt; Q1 2021 &amp; Endoder/decoder info",LexHoyos42,270,199,https://old.reddit.com/r/intel/comments/jkapv5/fresh_new_confirmed_details_on_intels_11th_gen/
+1599064405.0,Intel leak: Tiger Lake CPUs with Xe GPU beat AMD Ryzen laptops,,[deleted],44,0,https://taskboot.com/2020/09/02/intel-leak-tiger-lake-cpus-with-xe-gpu-beat-amd-ryzen-laptops/
+1610397377.0,INTEL at CES 2021,"CES 2021 is finally here and we are very excited about it!  
+
+
+Tune in at 1pm PT Monday January 11th to listen to Gregory M. Bryan, VP and GM of Intel's Client Computing Group, and other Intel executives, outline how Intel is executing and driving innovation in process tech, packaging and architecture to deliver a transformative computing experience for consumers and business alike  
+
+
+Intel's  CES main page: [https://www.intel.com/content/www/us/en/events/intel-ces.html](https://www.intel.com/content/www/us/en/events/intel-ces.html)
+
+Press: [https://newsroom.intel.com/news/ces-2021-intel-news-keynote-event/#gs.psx77a](https://newsroom.intel.com/news/ces-2021-intel-news-keynote-event/#gs.psx77a)
+
+Press Kit: [https://newsroom.intel.com/press-kits/intel-ces-2021/](https://newsroom.intel.com/press-kits/intel-ces-2021/) 
+
+&amp;#x200B;
+
+Thank you!",LexHoyos42,21,24,https://old.reddit.com/r/intel/comments/kvbgyo/intel_at_ces_2021/
+1666037979.0,AMA October 21st 8:30am to 2:30 pm PDT - Intel 13th Gent Core Desktop Processors,,LexHoyos42,52,87,https://i.redd.it/fve40oakcfu91.png
+1615907472.0,"11th Gen Intel Core: Unmatched Overclocking, Game Performance",[deleted],[deleted],45,5,
+1664304595.0,13th Gen Core In Depth with Intel Engineers | Talking Tech,,LexHoyos42,0,9,https://youtu.be/LONAZNCb0ME
+1588259621.0,Funny typo intel,"Original link [https://www.intel.com/content/www/us/en/products/docs/processors/core/10th-gen-core-desktop-brief.html](https://www.intel.com/content/www/us/en/products/docs/processors/core/10th-gen-core-desktop-brief.html)
+
+In case it gets pulled:
+
+[https://web.archive.org/web/20200430135622/https://www.intel.com/content/www/us/en/products/docs/processors/core/10th-gen-core-desktop-brief.html](https://web.archive.org/web/20200430135622/https://www.intel.com/content/www/us/en/products/docs/processors/core/10th-gen-core-desktop-brief.html)
+
+https://preview.redd.it/vkc2bwum1zv41.png?width=764&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=679cf168ee6958ee27a8a8bf30fd9290613fb517",0__L__,84,450,https://old.reddit.com/r/intel/comments/gaxi10/funny_typo_intel/
+1680548650.0,Is there an Undervolting / Overclocking guide for the 13600K on a Asus Z690 board?,,Alinul27,7,5,/r/sffpc/comments/12au0c9/is_there_an_undervolting_overclocking_guide_for/
+1630039971.0,"Intel Gamer Days is a global event bringing together Intel and top names in PC gaming, esports and streaming to offer the best deals and giveaways of the year. Check daily for updates! – Aug. 27th – Sep. 5th","Hello [r/intel ](https://www.reddit.com/r/pcgaming/)community!
+
+&amp;#x200B;
+
+[Intel Gamer Days](http://www.intel.gg/gamerdays) is in its fourth year and we’re just heating up! To celebrate all things PC gaming, Intel is offering exclusive discounts, giveaways, promotions, charity events, fun streams and other activities August 27th through September 5th. [Intel Gamer Days](http://www.intel.gg/gamerdays) is celebrated around the world with these participating countries : USA, UK, Peru, Russia, Taiwan, Philippines, Malaysia, Germany, France, Columbia, Chile, Brazil, Argentina, Indonesia, India, Vietnam, Thailand, Canada, Japan and South Korea. (see bottom section for which countries are participating in the 10 Days of Giveaways).
+
+&amp;#x200B;
+
+The global landing page is [Intel.gg/gamerdays](http://www.intel.gg/gamerdays). If you don’t get redirected to the correct country site, please select your country from the dropdown menu.
+
+&amp;#x200B;
+
+Intel Gamer Days is hosting daily giveaways called the ""10 Days of Giveaways"". Check the [website](http://www.intel.gg/gamerdays) or this thread daily for updates. To enter daily sweepstakes, visit IntelGaming on [Twitter](https://twitter.com/IntelGaming) and [Instagram](https://www.instagram.com/intelgaming/)
+
+&amp;#x200B;
+
+**Day 10 Giveaway September 5th:**
+
+Today’s Intel Gamer Days partner of the day is Corsair. The main giveaways for the day include:
+
+* 3x Z590 Aorus Master Motherboards + Intel Core i9-11900k desktop boxed processor
+* 3x Intel Core i7-11700k desktop boxed processors
+* 2x Intel Core i5-11600k desktop boxed processors
+
+&amp;#x200B;
+
+Check your local country [Intel Gamer Days](http://www.intel.gg/gamerdays) site for all the great streams, PC building guides, exclusive content and more. Thank you for the wonderful community support of PC gaming!
+
+&amp;#x200B;
+
+**Participating Countries for 10 Days of Giveaways**
+
+UK (England, Wales, Scotland and Northern Ireland), United States of America (legal residents of the 50 United States, the District of Columbia), Canada (excluding residents of Quebec), Australia (excluding ACT, NSW, SA), France, Germany, India, Taiwan, China (PRC), South Korea, Russia, Sweden, Norway and Denmark.
+
+Edit: Added giveaway participating countries section",IntelGaming,11,35,https://old.reddit.com/r/intel/comments/pcgh75/intel_gamer_days_is_a_global_event_bringing/
+1673369562.0,Sneak Peek: 6 GHz Intel Core Out-of-the-Box Demo,,LexHoyos42,28,42,https://www.youtube.com/watch?v=oYG3VU5z-2A
+1588266601.0,"AMA with the AORUS and Intel Teams: AORUS Z490 Motherboards, Intel 10th Generation Core Processors and more at 1:00 - 4:00 PM PST Today!","EDIT:
+
+Thanks so much to the community for hosting our AMA. We hope to do this again and talk about all the new exciting products coming out. If I could not get to your questions, please feel free to DM me and I can help answer as soon as I am available!
+
+Thanks to our guests [/u/Aaron\_McGavock](https://www.reddit.com/u/Aaron_McGavock/) and [/u/LexHoyos42](https://www.reddit.com/u/LexHoyos42/)
+
+Congratulations to
+
+[/u/flatfeet](https://www.reddit.com/u/flatfeet/) You are a lucky winner of our Z490 AORUS PRO AX
+
+[/u/cbuehler69](https://www.reddit.com/u/cbuehler69/) Another lucky winner of our Z490 AORUS PRO AX
+
+And lastly [/u/Mighty\_Thresh](https://www.reddit.com/u/Mighty_Thresh/) the lucky winner of our Z490 VISION D
+
+As always thank you and everyone stay safe and take care!
+
+&amp;#x200B;
+
+EDIT2:
+
+We are also giving away a full system via our Z490 launch page!
+
+ [https://us.aorus.com/AorusDirect/#giveaway](https://us.aorus.com/AorusDirect/#giveaway) 
+
+&amp;#x200B;
+
+Hey everyone today's AMA day, feel free to ask us any questions regarding the new AORUS Z490 motherboards, Intel 10th Generation Core Processors! We will begin answering questions at 1:00 - 4:00 PM Pacific Time!
+
+I am Brian Ngo, a product marketing manager at GIGABYTE, and I will be answering questions on the motherboard side of things. Looking forward to talking with the community today! I am considered the GIGABYTE tech dude. If I happened to miss your questions, please feel free to DM me here and I will get back to you as soon as I can.
+
+Any feedback, suggestions, or comments about our products are welcomed! We will collect all and any feedback and forward it to our engineering departments.
+
+We have some special guests from the Intel Team today!
+
+And introducing our special guests:
+
+Aaron (Aaron\_McGavock): I am the Tech guru for the 10th gen K processors
+
+Alex (LexHoyos42): I am a tech crusader (no Cape!) for many of our products
+
+Let's have fun and discuss all things tech today!
+
+&amp;#x200B;
+
+Z490 Cheatsheet:
+
+[https://docs.google.com/spreadsheets/d/15jArPp1FvQL7wnXeaVFE\_9\_PINNFFT8gmvcI3NTc5F4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/15jArPp1FvQL7wnXeaVFE_9_PINNFFT8gmvcI3NTc5F4/edit?usp=sharing)
+
+We'll also be looking to giveaway 2x AORUS Z490 PRO AC motherboards and 1x Z490 VISION D to 3 lucky winners at random at the end of the AMA session. To enter the giveaway, just drop by and say hello or ask a question. Open to all regions.",GBT_Brian,217,56,https://old.reddit.com/r/intel/comments/gazri1/ama_with_the_aorus_and_intel_teams_aorus_z490/
+1630082911.0,Intel Gamer Days: Opening Act ft. DrLupo,,LexHoyos42,2,11,https://www.youtube.com/watch?v=azguytuh2a8
+1613165873.0,"Intel Talks Resizable BAR for 11th Gen Rocket Lake CPUs, Laptops",,LexHoyos42,2,17,https://www.tomshardware.com/news/intel-talks-resizable-bar-for-11th-gen-rocket-lake-cpus-laptops
+1617238237.0,Slightly bent i3 processor. Anyone think this will still work in the mobo?,[deleted],[deleted],29,45,
+1610403728.0,CES 2021: Intel Starts Production of 10nm Xeon Scalable Processors | Intel Newsroom,,LexHoyos42,7,18,https://newsroom.intel.com/articles/ces-2021-intel-starts-production-10nm-xeon-scalable-processors/?cid=em&amp;source=elo&amp;campid=smg_WW_mbcbu_EMPR_EN_2021_0111_CES_2021%3A_Intel_Star_C-MKA-16642_T-MKA-22297&amp;content=smg_WW_mbcbu_EMPR_EN_2021_0111_CES_2021%3A_Intel_Star_C-MKA-16642_T-MKA-22297&amp;elq_cid=3432505&amp;em_id=65355&amp;elqrid=a7eb06e0c69c4b42858196220af64008&amp;elqcampid=42096&amp;erpm_id=6181836
+1680523621.0,Why have the specifications for the 13th Gen i3 been removed?,Why have the specifications for the 13th Generation i3 processors  been remove from ark.Intel.com?,BradyOfTheOldGuard,8,22,https://old.reddit.com/r/intel/comments/12aic6w/why_have_the_specifications_for_the_13th_gen_i3/
+1675296730.0,Let's talk about undervolting!,"This is information is in reference to several Reddit [post](https://www.reddit.com/r/intel/comments/10dcjd9/intel_blocks_undervolting_on_alder_and_raptor_lake/) regarding a BIOS update and a new Undervolting Protection setting within it
+
+TL:DR
+
+· No, undervolting is not blocked on 12th or 13th Gen Intel CPUs
+
+· Latest BIOS update rolled out relevant software updates and recommended BIOS settings, including Undervolt Protection (UVP).
+
+· When UVP is enabled Dynamic/Run-time undervolting is disabled. Undervolting is still available via BIOS.
+
+· Undervolt Protection (UVP) feature can be enabled/disabled in BIOS. Once disabled dynamic/run-time undervolting is enabled.
+
+· Each OEM and/or motherboard vendor can decide whether to include UVP enable/disable as part of their BIOS options for users.
+
+· Any questions about a certain system design or motherboard, we recommend you reach out to that OEM or motherboard partner.
+
+Hope this helps out, and will bring more info to this post once I get it.
+
+**- Lex \[Intel\]**",LexHoyos42,7,22,https://old.reddit.com/r/intel/comments/10raw6a/lets_talk_about_undervolting/
+1682280358.0,My Experience with Intel Insiders Survey,"I have always been a fan of Intel products and technologies, so when I saw an opportunity to participate in an Intel Insiders Survey last year, I jumped at the chance. The survey was about Intel's tech and it promised a chance to win a free shirt or 500usd as a reward. I thought it would be a fun and easy way to show my support for Intel and maybe get a cool shirt in the process. However, things did not go as planned. After completing the survey, I received an email confirming that I had won a shirt and asking me to provide my shipping address. Unfortunately, while filling the form I made a mistake and entered the wrong address. I realized my error only after I submitted the form and received another email with the confirmation of my address. I immediately contacted Intel support via email and explained my situation. I asked them to change my address or cancel my order so that I could resubmit it with the correct information. I contacted the support team several times, but they haven't fixed it and  after a while they stopped responding. I feel like I was scammed by Intel and they don't care about their customers. This is unacceptable and unprofessional behavior from such a big company.",lis531,8,4,https://old.reddit.com/r/intel/comments/12wo9u7/my_experience_with_intel_insiders_survey/
+1642574148.0,I7-10700kf throttling until 0.8ghz (there isn't much background task going on),,Royx_Shori,62,81,https://v.redd.it/rqa2kkcs9lc81
+1620609331.0,AMA May 11th 8:30am to 3:00 pm PST - (Tiger Lake H) 11th Gen Intel® Core™ H-Series Mobile Processors," **Good morning** r/intel**!**
+
+Intel’s 11th Gen Core™ H-Series Mobile Processors – Have officially launched and we have Intel experts here with us to answer any questions that you might have about its new architecture and platform features.
+
+**THE SUBJECT EXPERTS ON THE THREAD:** 
+
+• Colin Helms – Enthusiast Laptop Marketing Strategist 
+
+• Lum Mitchell – Enthusiast Laptop Platform Manager 
+
+• Nicholas Blair – Technical Marketing Engineering
+
+• Marcus Yam- Tech Evangelist 
+
+**Colin Helms**: I joined Intel in 1999. I have experience in many parts of Intel’s business having worked in IT, sales, and my current role in product marketing. I’ve been a PC gamer many years and have worked on various Intel products including Intel 5th through 7h Gen Core. Currently, I drive launch activity for our enthusiast mobile platforms and the all new 11th Gen Core H Series. My current gaming rig is a 10875H with RTX2080 Super mobile platform, but I plan to move to Tiger Lake quickly to play Fortnite and CoD:Warzone.
+
+**Lum Mitchell:** I started out at Intel in late 2008 as a rotation engineer with a PhD in Electrical Engineering. Somewhere along the way I took a right turn and spent 8 years in Developer Relations working primarily with Indie Game Devs. I left DevRel and joined the Enthusiast Laptop Segment team to work on the hardware side of delivering amazing gaming laptops. About 3 years ago took on the responsibility as Product Manager for 11th Gen H-series Processors – I am SUPER PUMPED for the amazing performance we’re bringing, and the diversity of enthusiast designs our OEMs will start shipping in May.
+
+**Marcus Yam:** My earliest PC gaming memories are filled with Frogger and King’s Quest, and my fondest memories are from Quake deathmatches. (I firmly believe that every game would be made better with rocket jumping and quad damage.) Custom building gaming rigs, pairing multiple graphics cards and tweaking game config files eventually led me to roles as a hardware reviewer and news editor for various tech websites. After 17 years in online media, I joined Intel in 2014 to see what goes on behind the blue curtain, with the same passion and curiosity today as when I overclocked my first CPU decades ago – which involved some Teflon tape or a graphite pencil. Today, I’m a Technology Evangelist at Intel**.**
+
+  **Alright - your turn! Ask away**
+
+https://preview.redd.it/n5u2ztanz6y61.jpg?width=2000&amp;format=pjpg&amp;auto=webp&amp;v=enabled&amp;s=0f0f2ad768658eb3b1e33fa0941c0c41dd43f2e3",LexHoyos42,1,29,https://old.reddit.com/r/intel/comments/n8scbn/ama_may_11th_830am_to_300_pm_pst_tiger_lake_h/
+1613150846.0,PREVIEW – Intel Core i7 11700K ES [In Romanian],,LexHoyos42,7,14,https://lab501.ro/procesoare-chipseturi/preview-intel-core-i7-11700k-es-rocket-lake
+1604160244.0,The beginning of a graphics odyssey: Tiger Lake with DG1,,IntelGraphics,24,166,https://i.redd.it/m35dzy9bdgw51.jpg
+1592426286.0,I found my overheating issue.,,silo8811,9,4,https://i.redd.it/3s353mte7j551.jpg
+1616070350.0,Intel introduces Adaptive Boost Technology for 11th Gen Core i9 Series,,[deleted],10,28,https://videocardz.com/newz/intel-introduces-adaptive-boost-technology-for-11th-gen-core-i9-series
+1604160182.0,Intel’s Discrete GPU Era Begins: Intel Launches Iris Xe MAX For Entry-Level Laptops,,dayman56,32,77,https://www.anandtech.com/show/16210/intels-discrete-gpu-era-begins-intel-launches-xe-max-for-entrylevel-laptops?
+1587484976.0,NUC 9 Megathread with Intel’s NUC Team (come ask questions!),"# Good morning r/intel! 
+
+Today we have the Intel NUC Team live on this thread all day! They’ll be answering any NUC related questions that you might have starting 9am PST 4/21 and will continue to monitor/respond until the end of the day.   
+
+
+**The experts on the thread:** 
+
+Lisa: Manages the marketing activities for gaming NUCs
+
+Joel:  I conceptualize the design and feature set of new NUCs
+
+Ray: I am the Tech guru for the NUC
+
+Majd: Work with Partners interested in using our NUC Products
+
+&amp;#x200B;
+
+Here is a quick &amp; short article/video to get you started on the new NUC 9 Extreme:
+
+[https://newsroom.intel.com/news/building-intel-nuc-9-extreme-kit/#gs.468ywf](https://newsroom.intel.com/news/building-intel-nuc-9-extreme-kit/#gs.468ywf)
+
+&amp;#x200B;
+
+https://preview.redd.it/e45ynw1u17u41.png?width=308&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=fce4691d5e7423d63faaf566f52e4ac229cc5ce0
+
+Now's your chance to get any question you have about the Intel NUC 9 Extreme Kit and its components.
+
+Here are a few basic questions that the team has pre-answer to get us started:
+
+**What is Intel NUC?**
+
+Intel’s Next Unit of Computing. The Intel NUC is a small form factor PC with the same capabilities as full desktop towers and provides new opportunities for PCs by bringing them into non-traditional spaces.
+
+**How did Intel come up with the idea for the Intel NUC 9 Extreme?**
+
+We saw how large external graphics enclosures were and thought, we (the NUC team) could probably fit a whole computer in there and still have room for the video card.  Then it was just about finding the most efficient use of the space without giving up off-the-shelf video card compatibility, expandability, and upgradability.
+
+**What is the value of the Intel NUC 9 Extreme Compute Element?**
+
+The Intel NUC 9 Extreme Compute Element combines many different components and technologies into a single compact form and allows the users to quickly build a system by just adding in memory, storage and a discrete graphics card. The Compute Element is also up-gradable, just swap out your current one for a newer model.
+
+# Alright - your turn! Ask away.",LexHoyos42,157,99,https://old.reddit.com/r/intel/comments/g5hxnl/nuc_9_megathread_with_intels_nuc_team_come_ask/
+1605020269.0,EKWB announces thermoelectric waterblock for Intel 10th gen.,,TPatS,105,135,https://www.ekwb.com/news/quantumx-delta-tec-water-block-featuring-intel-cryo-cooling/
+1682437903.0,community.intel.com - What is going on ???,,gcheaters,9,128,https://i.redd.it/vbd0yf2uw1wa1.png
+1675717763.0,The Road to 6GHz with Guy Therien: How We Made the Intel Core i9-13900KS,,LexHoyos42,3,4,https://youtu.be/ZgBc7SdZDrw
+1611777483.0,A look at Intel's Evo Laptop (Jon Rettinger),,LexHoyos42,1,6,https://www.youtube.com/watch?v=c8o3_tp3ums
+1611777483.0,A look at Intel's Evo Laptop (Jon Rettinger),,LexHoyos42,1,6,https://www.youtube.com/watch?v=c8o3_tp3ums
+1648484252.0,Join us as we build 4 PCs with industry experts and talk about the 12th Gen processor family features and its newest member!,,LexHoyos42,1,15,https://i.redd.it/pivqpo2hg5q81.png
+1607024331.0,World Of Warcraft: Shadowlands Laptop Graphics Shootout With Variable Rate Shading,,LexHoyos42,4,12,https://hothardware.com/news/world-of-warcraft-variable-rate-shading-tiger-lake
+1650872812.0,[deleted by user],[removed],[deleted],6,18,
+1678758275.0,Intel Discord Office Hours: Special Guest Liquid Haus,,LexHoyos42,1,9,https://i.redd.it/7hqhc06a0mna1.png
+1678124874.0,Guys what is this?? Is any of this true?? Please help.,,Sayedatherhussaini,174,0,https://i.redd.it/pttmi1ot67ma1.jpg
+1620747910.0,AMA with Intel - 11th Gen Intel® Core™ H-Series Mobile Processors (Tiger Lake H),"**Good morning** [r/intel](https://www.reddit.com/r/intel/)!
+
+Intel’s 11th Gen Core™ H-Series Mobile Processors have officially launched and we have Intel experts here with us to answer any questions that you might have about its new architecture and platform features.
+
+**What’s New:** The new 11th Generation Intel® Core™ H-series mobile processors (code-named “Tiger Lake-H”) launched worldwide today, led by the flagship Intel® Core™ i9-11980HK — the “World’s Best Gaming Laptop Processor.”1 The Intel Core i9-11980HK delivers the highest-performance2 in laptops for gaming, content creators and business professionals reaching speeds of up to 5.0 gigahertz (GHz). Read more on the [Intel Newsroom](https://www.intel.com/content/www/us/en/newsroom/news/11th-gen-core-mobile-h.html).
+
+**THE SUBJECT MATTER EXPERTS ON THE THREAD:**
+
+* Kim Algstam – Enthusiast Laptop Innovation Director
+* Colin Helms – Enthusiast Laptop Marketing Strategist
+* Mitchell Lum – Enthusiast Laptop Platform Manager
+* Nicholas Blair – Technical Marketing Engineering
+* Marcus Yam - Tech Evangelist
+
+**Colin Helms**: I joined Intel in 1999. I have experience in many parts of Intel’s business having worked in IT, sales, and my current role in product marketing. I’ve been a PC gamer many years and have worked on various Intel products including Intel 5th through 7h Gen Core. Currently, I drive launch activity for our enthusiast mobile platforms and the all new 11th Gen Core H Series. My current gaming rig is a 10875H with RTX2080 Super mobile platform, but I plan to move to Tiger Lake quickly to play Fortnite and CoD: Warzone.
+
+**Mitchell Lum:** I started out at Intel in late 2008 as a rotation engineer with a PhD in Electrical Engineering. Somewhere along the way I took a right turn and spent 8 years in Developer Relations working primarily with Indie Game Devs. I left DevRel and joined the Enthusiast Laptop Segment team to work on the hardware side of delivering amazing gaming laptops. About 3 years ago took on the responsibility as Product Manager for 11th Gen H-series Processors – I am SUPER PUMPED for the amazing performance we’re bringing, and the diversity of enthusiast designs our OEMs will start shipping in May.
+
+**Marcus Yam:** My earliest PC gaming memories are filled with Frogger and King’s Quest, and my fondest memories are from Quake deathmatches. (I firmly believe that every game would be made better with rocket jumping and quad damage.) Custom building gaming rigs, pairing multiple graphics cards and tweaking game config files eventually led me to roles as a hardware reviewer and news editor for various tech websites. After 17 years in online media, I joined Intel in 2014 to see what goes on behind the blue curtain, with the same passion and curiosity today as when I overclocked my first CPU decades ago – which involved some Teflon tape or a graphite pencil. Today, I’m a Technology Evangelist at Intel.
+
+**What’s new in these 11th Gen Intel® Core™ mobile processors?**
+
+11th Gen Intel® Core™ processors deliver a number of new technical foundations and features that enable highly integrated, high performant mobile PC platforms, including:
+
+* Willow Cove Core microarchitecture. 10nm SuperFin.
+* NEW Support for 5.0GHz turbo across 2 cores and overclocking beyond 5Ghz
+* NEW 20 PCIe Gen 4 lanes / 16 PEG lanes and 4 CPU connected storage
+* NEW Up to 44 platform PCIe lanes
+* Thunderbolt™ 4 w/ up to 40Gbps transfer speeds
+* NEW Discrete Intel® Killer™ Wi-Fi 6E (Gig+)
+* NEW IPU6SE Integrated for high fidelity MIPI support
+* NEW Dual eDP integrated for power optimized Companion Display
+* NEW Resizeable BAR for better gaming performance
+* Intel® Core™ i9 mobile processor with up 8C/16T
+* Intel® Core™ i7 mobile processor with up 8C/16T
+* Intel® Core™ i5 mobile processor with up 6C/12T
+
+**Alright - your turn! Ask away**
+
+**NOTE: We will prioritize answering questions specific to H-series as those are the experts we have on deck today. We will do our best to answer as much as we can, but some answers are best left for the specific experts of particular areas.** 
+
+https://preview.redd.it/dzp8vhothiy61.png?width=1537&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=2c75bcab37ec2f9fd79e26f305521d74e8538915",Ytseyam,109,73,https://old.reddit.com/r/intel/comments/na00cv/ama_with_intel_11th_gen_intel_core_hseries_mobile/
+1616879974.0,AMA March 30th 8:30am to 3:00 pm PST - Intel 11th Gent Core Desktop Processors," **Good morning** r/intel**!**
+
+Intel’s 11th Gen Desktop Processor – Code Name Rocket Lake - has officially launched and we have Intel experts here with us to answer any questions you might have about its new architecture, platform features or anything else related to it. 
+
+**THE SUBJECT EXPERTS ON THE THREAD:** 
+
+• Scout Rouse – Platform Engineer Manager (RKL is my “Baby!”)
+
+• Aaron Mcgavok – Engineer Tech Lead (One of the guys who gets you the cool CPU features)
+
+• Dan Ragland – Principal Engineer (Overclocking Master &amp; Commander)
+
+• Kyle Ferguson - Desktop Gaming Manager (Day one raider)
+
+• Alejandro (Lex) Hoyos: Tech Evangelist (Token Engineer Marketing guy) 
+
+**Kyle Ferguson:** I joined Intel in 2016 as a market forecaster for everything from WiFi to modems to CPUs and now own Intel’s desktop gaming strategy. I’ve been playing PC games since the early 90’s starting with all things Blizzard (Warcraft, Diablo, Starcraft, WoW) and moving into dozens of other amazing titles. My main pc is running a 10850K at 5.3GHz with an H150i Pro cooler, RTX 3080, 32GB of 3600Mhz DDR4, and all the NVMe SSDs I can fit on my motherboard and expansion cards.
+
+**Aaron McGavock**: I started at Intel in Jan of 99 working on the then-new Pentium II program (and gaming on those systems in the lab... mostly Tribes and Pod Racer). Some notable projects that I led were Devil's Canyon (4790K), Intel Turbo Boost Max Technology 3.0, the i9-9900KS, the i9-9990XE and Intel Performance Maximizer. My current rig is currently an i9 Ghost Canyon NUC and I'm still a Battlefield 4 and 1 hold out. 
+
+**Scott Rouse:**  I started at Intel in Sept 1993 and in Sept 1996 was the first hire in a new desktop product marketing team in the division developing Pentium II processors.  I’ve worked on most desktop processors over the years from Pentium II &amp; III to Pentium IV to Intel® Core™ processors.  Currently, I’m a platform marketing manager responsible for the Rocket Lake-S platform.
+
+**Alejandro (Lex) Hoyos:** I joined Intel Back in 2005 as an Analog Electrical Engineer working on SATA, PCIE and DMI interfaces for the PCH. Then in 2011 I move over to technical marketing and after *“taking a left turn in Albuquerque”* I ended up as a Tech Evangelist and Community manager. I spend most of 15 years at work building systems for gaming events, shows, friends and family and my Current gaming rig is a Core i9 10-900K with a 2080TI. You can find me Re-spawning a lot in CoD WarZone these days.
+
+Here is a quick short article about the 11th Gen Intel Core from our newsroom but there are plenty of articles out there by 3rd parties for you to check out too:
+
+[https://newsroom.intel.com/news/11th-gen-intel-core-unmatched-performance/](https://newsroom.intel.com/news/11th-gen-intel-core-unmatched-performance/)
+
+**We will also like to point out that there are still BIOS updates on going from the different motherboard manufacturers, so please keep an eye out and make sure that you have the latest one.**
+
+Now's your chance to get any question you have about the 11th Gen Intel. Here are a few basic questions that the team has pre-answer to get us started:
+
+**You’re calling this a new core architecture but it’s still 14nm. What’s different from Skylake?**Cypress Cove represents Intel’s first new desktop architecture in five years and is enables up to 19% IPC performance improvement (gen over gen). The new Rocket Lake processor delivers:
+
+• New architecture: Cypress Cove (Ice Lake Core arch + Tiger Lake Graphics arch) 
+
+• Better performance &amp; IPC improvements 
+
+• Enhanced Intel 750 UHD graphics featuring the Xe Graphics Arch. 
+
+• Up to 20 CPU PCIe 4.0 lanes 
+
+• New overclocking features
+
+**Why didn’t you develop Rocket Lake on 10nm?** The decision to deliver the 11th Gen Intel Core S-Series (Rocket Lake-S) processor on 14nm comes down to 14nm being the most established manufacturing process, and we continue to deliver leading frequencies. 
+
+**Why is Intel reverting to 8 cores in Rocket Lake?** Our focus is on IPC improvements with the new architecture and optimal balance of frequency, cores, and threads. All applications scale with frequencies and we continue to lead in high frequencies and instructions per clock. With 11th Gen Rocket Lake, we are taking core and graphics IP designed for 10nm transistors and porting them back to larger 14nm transistors. The processor takes advantage of the core and graphics IP performance benefits but since the core and graphics die area grows, an 8 core with Intel UHD integrated graphics is the largest die we can make with those architectures.
+
+**Alright - your turn! Ask away.**",LexHoyos42,99,72,https://old.reddit.com/r/intel/comments/memyfv/ama_march_30th_830am_to_300_pm_pst_intel_11th/
+1613015858.0,Made you guys an evil corporation-esque intel logo.,,CharlieAndCooper,69,709,https://i.redd.it/ujgiz29ourg61.png
+1614623912.0,Intel discontinues Tuning Protection Plan for overclocking,,bizude,17,26,https://tuningplan.intel.com/
+1602084239.0,AMD Market Share Shows Slight Drop in Russian Market: Ryzen 5 3600 Still the Most Popular CPU,[deleted],[deleted],10,4,
+1599056110.0,Intel Tigerlake Launch Day,"Today Intel will be launching the first round of their 11th Generation Core products codenamed ""Tigerlake"". Tigerlake features Intel's Willow Cove Core with their enhanced 10nm SuperFin process alongside their brand new XE^(LP) integrated graphics engine. Tigerlake focuses on the thin and light mobile market.
+
+You can register to watch the event [here](https://www.cvent.com/events/intel-launch-event/registration-a906cbb167f841b4b335a17ccc057f6d.aspx?r=cc8c6bf6-30c1-49d6-8bd0-3152c74e5988&amp;refid=Media&amp;tystub=77qq83&amp;fqp=true)
+
+Intels live blog for the event can be accessed [here](https://newsroom.intel.com/news/intel-launch-event-2020-live-blog/)
+
+Anandtech Live Blog [here](https://www.anandtech.com/show/16064/intel-launches-tiger-lake-a-live-blog-noon-et-9am-pt?)
+
+Intel:
+
+* [Intel Launches World’s Best Processor for Thin-and-Light Laptops: 11th Gen Intel Core](https://newsroom.intel.com/news-releases/11th-gen-tiger-lake-evo/)
+* [Intel 11th Gen Core product page](https://www.intel.com/content/www/us/en/products/docs/processors/core/11th-gen-processors.html)
+
+AnandTech:
+
+* [Intel Launches 11th Gen Core Tiger Lake: Up to 4.8 GHz at 50 W, 2x GPU with Xe, New Branding](https://www.anandtech.com/show/16063/intel-launches-11th-gen-core-tiger-lake-processors-and-evo-branding)
+
+TomsHardware:
+
+* [Tiger Lake Pounces: Up to 4.8 GHz, LPDDR4-4267 Memory, Iris Xe Graphics up to 1.35 GHz](https://www.tomshardware.com/uk/news/tiger-lake-pounces-up-to-48-ghz-lpddr4-4267-memory-iris-xe-graphics-up-to-135-ghz)
+* [What is Intel Evo? The Second Generation Project Athena](https://www.tomshardware.com/uk/news/intel-evo-project-athena)
+
+PCWorld:
+
+* [Intel's new Evo brand will highlight updated, premium 'Project Athena' notebook PCs](https://www.pcworld.com/article/3573259/intels-new-evo-brand-will-highlight-updated-premium-project-athena-notebook-pcs.html?_lrsc=37d79549-7309-49dc-ae45-3ccd89f6575f&amp;)
+* [Tiger Lake CPU performance: How Intel makes up for past clock-speed shortcomings](https://www.pcworld.com/article/3573084/intels-tiger-lake-mobile-cpus-make-up-for-past-clock-speed-shortcomings.html)
+
+Notebookcheck:
+
+* [All-core 4.3 GHz at 28 W — Intel announces the 11th gen Tiger Lake lineup for laptops: Full specs, SKUs, and preliminary performance comparison](https://www.notebookcheck.net/All-core-4-3-GHz-at-28-W-Intel-announces-the-11th-gen-Tiger-Lake-lineup-for-laptops-Full-specs-SKUs-and-preliminary-performance-comparison.490934.0.html)
+
+Update From Intel on system specifications that were used for comparisons:
+
+&gt;**Intel Configuration:**  
+&gt;  
+&gt;**-** Processor: Intel® Core™ i7-1185G7 processor (TGL-U) PL1=28W with Intel® Dynamic Tuning Technology (Intel® DTT) enabled, 4C8T  
+&gt;  
+&gt;**-** Memory: LPDDR4-4267MHz, 16GB (2x8GB), dual channel and dual rank  
+&gt;  
+&gt;**-** Storage: Intel® 660p M.2 PCIe NVMe SSD  
+&gt;  
+&gt;**-** Display Resolution: 1920x1080 except Lifestyle workload (4K)  
+&gt;  
+&gt;**-** OS: Microsoft Windows 10 20H1-19041.326 Power policy set to AC/Balanced mode for all benchmarks except SYSmark 25 which is measured in AC/BAPCo mode for Performance. Power policy set to DC/Balanced mode for power with UX Slider set to Better Battery. All benchmarks run in Admin mode,  
+&gt;  
+&gt;**-** Graphics: Intel® Xe Graphics, Graphics driver: 27.20.100.8431  
+&gt;  
+&gt;**-** Bios version: TGLSFWI1.R00.3284.A00.2007091654 measured on Intel reference board. Temperature: Tc=60c for all IA performance measurements. Tc=85c for all Graphics performance measurements. Performance with Intel® DTT will vary based on chassis design choices, chassis temperature thresholds, cooling solutions, form factors (xyz dimensions), air flow, and ambient air temperatures  
+&gt;  
+&gt;**AMD Configuration:**  
+&gt;  
+&gt;**-** Processor: AMD Ryzen™️ 7 4800U processor, 8C16T  
+&gt;  
+&gt;**-** Memory: 2x8GB DDR4-3200MHz  
+&gt;  
+&gt;**-** Storage: Western Digital Corporation PC SN730 SDBPNTY-512G-1101  
+&gt;  
+&gt;**-** Display Resolution: 1920x1080  
+&gt;  
+&gt;**-** OS: Microsoft Windows\* 10 Pro 10.0.19041.330  
+&gt;  
+&gt;**-** Graphics: AMD Radeon(TM) Graphics, Graphics driver: 26.20.14042.3009  
+&gt;  
+&gt;**-** Bios version: F0CN15WW measured on Lenovo Xiaoxin Pro 13. Out of box OS was Chinese, testing done on a fresh install of OS that supports English using highest available performance profile, with the “System Performance Mode” BIOS setting at “Extreme Performance” mode which corresponds to \~37W power as reported by AMD’s μProf tool, sustained up to 20 minutes.""
+
+Additional Information on the system configurations can be found [here](https://edc.intel.com/content/www/us/en/products/performance/benchmarks/11th-generation-intel-core-mobile-processors/)
+
+&amp;#x200B;",dayman56,232,140,https://old.reddit.com/r/intel/comments/il7kiu/intel_tigerlake_launch_day/
+1633504350.0,"Opinion on Aliexpress’s i9-10900 ES? Are there any cons beside warranty? Since they are way cheaper than retail. I’m pairing with B560 mobo, i need lot of cores",,Luqaz3,13,15,https://i.redd.it/xoewifpk5sr71.jpg
+1610405578.0,How tech savvy are you? Enough to catch our blunder moments? Here are the answers,,LexHoyos42,4,18,https://i.redd.it/g2od70u68sa61.png
+1601504073.0,AMA Tomorrow 10am - What is like to be a Tech Enthusiast and work at intel in the gaming industry,"Hi r/intel!
+
+We get asked many times by tech enthusiasts and gamers, what is it like to work in gaming at Intel and how we got into it in the first place, that we decided to have a few of our engineering gaming folks available to answer your questions in Megathread AMA  tomorrow Thursday Sept 30th starting at 10am. Join us and we will be more than happy to answer questions on:
+
+· How they got to their current job
+
+· What’s their education background
+
+· How game developers benefit by working with Intel
+
+· What advice and support Intel offers to game developers
+
+· Among others",LexHoyos42,3,15,https://old.reddit.com/r/intel/comments/j2vz3x/ama_tomorrow_10am_what_is_like_to_be_a_tech/
+1588066327.0,"Intel i225 ""Foxville"" 2.5GbE PHY Has a Flaw Affecting Performance, ""Rocket Lake-S"" Confirmed for 2H-2020 | TechPowerUp",,uzzi38,37,40,https://www.techpowerup.com/266335/intel-i225-foxville-2-5gbe-phy-has-a-flaw-affecting-performance-rocket-lake-s-confirmed-for-2h-2020?amp&amp;__twitter_impression=true
+1645767403.0,AMA Intel NUC 12 Extreme Kit - March 1st from 9:00am to 3:00pm PST,,LexHoyos42,1,29,https://i.redd.it/p4gvcyhn1xj81.png
+1668525948.0,"Damn 13900k pretty over kill, just a mild OC 5.5Ghz on P-Cores and 4.4Ghz E-Cores with - offset 0.06",,Renverse420,55,62,https://i.redd.it/id6tq4qru40a1.jpg
+1598304522.0,SIGGRAPH 2020: Intel oneAPI Rendering Toolkit Unleashes Film Fidelity | Intel Newsroom,,LexHoyos42,2,3,https://i.redd.it/zc6epu0fq0j51.png
+1671634312.0,"ASUS pushes Intel Core i9-13900K to 9.008 GHz, Setting a new World Record!",[deleted],[deleted],14,112,
+1598560902.0,"Here’s Doom Eternal running at 1,000fps with an Intel Core i7 9700K",,LexHoyos42,8,30,https://youtu.be/paD8ZUPDFSY
+1634853645.0,AMA - October 28th 8:30am to 3:00pm PDT with Intel Engineers and Newegg PC build experts,,IntelTechnology,13,58,https://i.redd.it/7sfhzw2zkvu71.png
+1611272564.0,Intel and Nvidia Deny Rumor They Colluded Against AMD,,LexHoyos42,47,32,https://gizmodo.com/intel-and-nvidia-are-probably-not-colluding-to-keep-amd-1846087499
+1666363665.0,AMA - Intel and Micro Center on the Intel 13th Gent Core Desktop Processors -October 21st 8:30am to 2:30 pm PDT,"# 
+
+https://preview.redd.it/qel8hcf296v91.png?width=791&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=233d516f2e146edcdf7a973c0295f2a7165203eb
+
+# Good morning r/intel!
+
+It feels like we have been launching this processor for a month but today now we can Finally talks numbers! Intel’s 13th Gen Core Desktop Processor – Code Name Raptor Lake - has officially launched and we have brought Intel experts to answer all the questions that you might have about its new upgraded cores, higher speeds, platform features etc.
+
+Also with us we have some folks from **Micro Center** who can help you with **all your PC hardware needs and any PC building questions you might have.**
+
+&amp;#x200B;
+
+https://preview.redd.it/pv1s5oscw2v91.png?width=1080&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=d3e24fb0c1d5376323e06c517a271df4d63cdb2b
+
+**HERE is a link to**  [**Micro Center**](https://www.microcenter.com/site/content/intel-gen13.aspx?utm_campaign=intel) webpage
+
+**You can also Configure an 13th Gen Intel® desktop processor-based** PC build using the **Microcenter Custom PC Builder Tool.** [https://www.microcenter.com/site/content/custom-pc-builder-intel.aspx?utm\_campaign=intel](https://www.microcenter.com/site/content/custom-pc-builder-intel.aspx?utm_campaign=intel) 
+
+# The Subject Experts on The Thread:
+
+**Intel**
+
+* **Scott Rouse** – Platform      Manager: *El Capitan*
+* **Nema B** – Product      Manager Engineer: *Princess of IO*
+* **Aaron M** – Engineer      Tech Lead (He gets you the cool CPU features)
+* **Dan R** – Principal      Engineer (Overclocking Master &amp; Commander)
+* **Alejandro (Lex) H** – Tech Evangelist: *¡El Guapo!*
+
+**Micro Center**
+
+· **Matt Herman (Micro Center):** His first computer was an Atari 800 which his father bought him when he was 12 years old.  Matt has, over the last 20 years, built many PC’s and uses these integrally with his Photo/Video hobbies, gaming, benchmarking, and he loves to overclock.  Matt has been with Micro Center for the past 19 years and is responsible for Visual Merchandising and Store Design for the company.
+
+· **Michael Belcher (Micro Center):** My first started building PC's around 21 years ago at the age of 8 after my father got me and my brothers into computers while he was in the Navy. My first PC was a dual core Gateway PC with a locked motherboard and processor. I quickly became interested in overclocking after browsing forums like Overclock.net and after learning I couldn't overclock my Gateway, I killed my father’s power supply while he was at work trying to overclock his old Q6600.  I've written a few guides across multiple tech forums on memory overclocking and it has come in handy not just for my hobby but also for my various roles
+
+# Here is Some Basic Info and Questions:
+
+https://preview.redd.it/g21ynuu6z2v91.png?width=975&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=6b82a06bee3afd648b7119e1dbfab1db87eedb87
+
+https://preview.redd.it/ee8rrub8z2v91.png?width=975&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=a2d2a3ff268e9005f1849c4de97c90da1f2c6004
+
+**Why did Intel decide to bump up the E-core count on 13th Gen rather than the P-core count?**
+
+The design of our E-cores gives us a great combination of both performance and power efficiency – delivering the same frequencies as our original Skylake cores but at significantly lower power. This lets us increase core count and overall performance of our 13th Gen Intel Core desktop processors gen-over-gen while still keeping power budget in-line with our 12th Gen Intel Core desktop processors.
+
+Combined with new improvements such as increased L2 cache in the E-cores and an improved prefetcher algorithm, our E-cores are delivering great performance in our 13th Gen Intel Core desktop processors.
+
+**Does the new 13th Gen Intel® Core™ desktop processor family support AVX-512 instruction sets?**
+
+The Performance Hybrid architecture consists of two core types – Performance-cores and the Efficient-cores - to maximize the single/lightly-thread and multi-thread performance of the processor. The Efficient-cores are not designed to execute the AVX512 instruction set, but 13th Gen Intel Core will support AVX2, VNNI and other instruction sets that are more applicable to client workloads.
+
+AVX-512 is an important instruction set that Data Center solutions will support.
+
+**What are the benefits of increasing the L2/L3 cache in 13th Gen Intel Core desktop processors?**
+
+The increased capacity – along with improved data prefetching – in L2/L3 cache for certain 13th Gen Intel Core desktop processor SKUs helps boost our desktop processor performance to new heights for users.
+
+The cache improvements Intel has made to both the P-cores and E-cores in its 13th Gen desktop processors is showing up in both single-threaded (ST) and multi-threaded (MT) performance numbers gen-over-gen – helping users game, create and work better than ever before. In fact, we’re seeing the cache improvements contributing \~2-4% on average to overall ST and MT performance uplift. We’ve even seen in some specific tests the cache improvements contributing up to 16% to overall performance uplift gen-over-gen!
+
+The cache improvements Intel has made to its 13th Gen desktop processors is focused on making it both larger and smarter at the same time – powering the best desktop processor experience available on the market today.
+
+**Alright - your turn! Ask away!**
+
+Lex H. \[Intel\]",IntelTechnology,149,72,https://old.reddit.com/r/intel/comments/y9vmsn/ama_intel_and_micro_center_on_the_intel_13th_gent/
+1616036394.0,Intel Adaptive Boost Technology - Intel &amp; Motherboard partners planning new turbo feature for the 11th Gen Intel Core i9K and i9KF processors - Keep an eye out for motherboard software updates,,LexHoyos42,132,161,https://i.redd.it/ikk0lakbcpn61.jpg
+1670437392.0,Overclocking Live Chat with Intel experts - Come join us!,,LexHoyos42,17,34,https://i.redd.it/pnstjwblpi4a1.jpg
+1667416215.0,"Pat Gelsinger and Linus Torvalds talk Linux, open source, technology and more",,IntelTechnology,19,51,https://youtu.be/0m4hlWx7oRk
+1635369692.0,AMA October 28th 8:30am to 3:00 pm PDT - Intel 12th Gent Core Desktop Processors,"**Hello** r/intel !
+
+It is Finally here! Intel’s 12th Gen Core Desktop Processor – Code Name Alder Lake - has officially launched and we have brought Intel experts to answer all the questions that you might have about its new hybrid architecture, Schedule Director, platform features etc.
+
+https://preview.redd.it/amvwnpt1y1w71.png?width=497&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=590abf51ae40263ebb571a5f6a3a952f5cc25242
+
+**YOU CAN PRE-ORDER NOW on** [**NEWEGG**](https://www.newegg.com/promotions/intel/21-2300/index.html?cm_mmc=snc-reddit-_-ama-_-intel12thgen-_-102821)
+
+**THE SUBJECT EXPERTS ON THE THREAD:**
+
+**Intel**
+
+* Tony V – Platform Manager: *El Capitan*
+* Amber S - Product Manager Engineer: *Highly Caffeinated!*
+* Nema B – Product Manager Engineer: *Princess of IO*
+* Aaron M – Engineer Tech Lead (He gets you the cool CPU features)
+* Dan R – Principal Engineer (Overclocking Master &amp; Commander)
+* Alejandro (Lex) H – Tech Evangelist: *¡El Guapo!*
+
+**Newegg**
+
+* Frank - lead PC Builder at ABS/ENIAC
+* Andrew Choi - Director of Brand Marketing at Newegg
+
+Here are some articles about the 12th Gen Intel Core
+
+**12th Gen Intel Core Desktop**[https://www.reddit.com/r/intel/comments/qh04ly/the\_12th\_generation\_intel\_core\_lineup\_starts\_with/](https://www.reddit.com/r/intel/comments/qh04ly/the_12th_generation_intel_core_lineup_starts_with/)
+
+**Intel Z690 Chipset** [https://www.reddit.com/r/intel/comments/qh0fm1/the\_intel\_z690\_chipset\_moves\_more\_data\_between/](https://www.reddit.com/r/intel/comments/qh0fm1/the_intel_z690_chipset_moves_more_data_between/)**12th Gen Intel Core Desktop Processors**[https://www.intel.com/content/www/us/en/newsroom/news/12th-gen-core-processors.html#gs.eqyshk](https://www.intel.com/content/www/us/en/newsroom/news/12th-gen-core-processors.html#gs.eqyshk)
+
+There are also a bunch of 3rd party articles don’t forget to hit those too!
+
+Here is some basic Info and questions to get us started:
+
+**Architecture Improvements**
+
+* Intel 7 process technology on Desktop
+* New for Desktop Performance Hybrid architecture - combining P-cores with E-cores·
+* Intel® Thread Director· Core architecture featuring IPC improvements·
+* Up to 16 cores (8 P-cores + 8 E-cores) and 24 threads·
+* Increased L2 cache and L3 shared Intel® Smart Cache
+
+**Platform Improvements**·
+
+* DDR5 support (up to 4800MT/s)·
+* Processor PCIe 5.0 (up to 16 lanes) and PCIe 4.0 (up to 4 lanes)·
+* Chipset PCIe 4.0 (up to 12 lanes)·
+* Integrated Intel® Wi-Fi 6E support·
+* Up to 8 DMI 4.0 lanes· ENHANCED Core and memory overclocking
+
+&amp;#x200B;
+
+https://preview.redd.it/99g6r4fby1w71.png?width=665&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=3b8f5f0716bab06fd893404c8c650bf092c70d5d
+
+**Why is a hybrid architecture appropriate for desktops?**
+
+Intel’s hybrid approach starts with performance, which is in contrast to other approaches that start with battery savings for mobile devices and laptops. Our most important goals when designing 12th Gen Intel Core processors was to support ALL client segments through a single, highly scalable SoC architecture, with three key design points:
+
+* Maximum performance, two-chip, socketed desktop, with leadership performance, power-efficiency, memory, and IO.
+* High-performance mobile BGA package, which adds imaging, larger Xe graphics, and Thunderbolt 4 connectivity
+* Thin, lower-power, high-density package with optimized IO, and power delivery.
+
+Both Performance-cores and Efficient-cores are built as interchangeable slices that include a portion of the last level cache, allowing us to build multiple die topologies spanning 12th Gen Intel Core processors’ wide design range.
+
+**Why change the name from TDP?**
+
+Intel is moving away from the historical “Thermal Design Power (TDP)” nomenclature to better describe the characteristics of our parts in today’s platforms. This includes both the manufacturing assured power/performance points, as well as the maximum sustained power dissipation. While the technical definition does not change, the new term we will be using moving forward is “Processor Base Power”. We will also be conveying the “Maximum Turbo Power” of our parts (controlled via the Power Limit 2 parameter) in technical specifications.
+
+**What are the new naming conventions for TDP?**
+
+https://preview.redd.it/04ln7wkmx1w71.png?width=434&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=59d1c9b05d7f50b11be6b0c74f544e9ae4bc61c7
+
+* Processor Base Power: The time-averaged power dissipation that the processor is validated to not exceed during manufacturing while executing an Intel-specified high complexity workload at Base Frequency and at the junction temperature as specified in the Datasheet for the SKU segment and configuration.
+* Maximum Turbo Power: The maximum sustained (&gt;1s) power dissipation of the processor as limited by current and/or temperature controls. Instantaneous power may exceed Maximum Turbo Power for short durations (&lt;=10ms). Note: Maximum Turbo Power is configurable by system vendor and can be system specific
+
+**What are the terms for Turbo Frequency?**
+
+https://preview.redd.it/osebke5vx1w71.png?width=642&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=28838a3b3b0137ed1842bb85f4bedc214b092cc0
+
+**Alright - your turn! Ask away.**
+
+**YOU CAN PRE-ORDER NOW on** [**NEWEGG**](https://www.newegg.com/promotions/intel/21-2300/index.html?cm_mmc=snc-reddit-_-ama-_-intel12thgen-_-102821)
+
+\-Lex H \[Intel\]",IntelTechnology,211,101,https://old.reddit.com/r/intel/comments/qh6xs2/ama_october_28th_830am_to_300_pm_pdt_intel_12th/
+1634853645.0,AMA - October 28th 8:30am to 3:00pm PDT with Intel Engineers and Newegg PC build experts,,IntelTechnology,13,59,https://i.redd.it/7sfhzw2zkvu71.png
+1646153900.0,AMA Intel NUC 12 Extreme Kit - Today from 9:00am to 3:00pm,"GOOD MORNING, [r/INTEL](https://www.reddit.com/r/INTEL/)!
+
+Intel’s NUC 12 Extreme Kit (code-named “Dragon Canyon”) launched on February 24th, and we are happy to answer all your questions about it. It is a highly modular desktop PC in an 8-Liter chassis with the next generation of the Extreme Compute Element.
+
+THE EXPERTS ON THE THREAD:
+
+**Ray:** The Tech guru for the NUC. I am the lead Technical Marketing Engineer for the Intel® NUC Enthusiast Element line of products. I like to tinker with hardware, play games and I passed the Voight-Kampff test.
+
+**Justin:** I am the expert in the gaming ecosystem. I’ve been with Intel for 22 years now, most of that time focused on helping define, market, and sell enthusiast products ranging from Desktop Boards to SSDs, to processors, and now NUC products purpose built for Gaming and Content Creation. Outside of work, I enjoy tuning my car and driving skills for Autocross races
+
+Here some quick articles about the Intel NUC 12 Extreme Kit:
+
+[Anandtech](https://www.anandtech.com/show/17279/the-intel-nuc12-extreme-dragon-canyon-preview-desktop-alder-lake-impresses-in-sff-avatar), [PCMag](https://www.pcmag.com/reviews/intel-nuc-12-extreme-kit-dragon-canyon), [PCWorld](https://www.pcworld.com/article/616966/intel-dragon-canyon-nuc12edbi9-review-a-solid-alternative-to-traditional-diy-sff-pcs.html)
+
+**JUST THE SPECS:**
+
+**Eden Bay Compute Element:**
+
+· Dual channel DDR4-3200 SODIMMs, 64GB max
+
+· 3 x M.2 key M slots:
+
+·  80 CPU-attached PCIe X4 Gen4 NVMe,
+
+· 2 x 42/80 PCH-attached PCIe x4 Gen4 NVMe
+
+· Or SATA3 SSD, RAID-0 and RAID-1 capable
+
+· HDMI 2.0b connector
+
+· 2 x Thunderbolt™ 4 ports
+
+· Supports 3 x 4K displays (Intel® UHD Graphics)
+
+· 10GbE LAN (AQC113)
+
+· Intel® 2.5Gb (i225-LM) on select SKUs
+
+· Intel® Wi-Fi 6E AX211, 802.11ax 2x2 2.4Gbps w/ 6GHz + Bluetooth® v5.2, dual internalantennas
+
+· 6 x USB 3.2 Gen2 Type-A connectors (rear)
+
+· Up to 7.1 multichannel digital audio via HDMI or DisplayPort signals
+
+· 2 x USB 3.1 headers, 2x USB 2.0 headers
+
+**Dragon Canyon chassis:**
+
+· PCIe X16 Gen5 slot with 8 pin &amp; 2x6+2-pin PCIe power connectors, up to 350W
+
+· Up to 12"" card length, dual-slot capable
+
+· SDXC slot with UHS-II support
+
+· 1 x USB 3.2 Gen2 Type-A (front)
+
+· 1 x USB 3.2 Gen2x2 Type-C (front)
+
+· 3.5mm front stereo headset jack
+
+· 650W 80+ Gold internal power supply with geo-specific C13 AC cords
+
+· All-around customizable RGB lighting with user-replaceable RGB-backlit front logo
+
+· **What is the NUC 12 Extreme Kit (Dragon Canyon)?**
+
+Intel® NUC 12 Extreme Mini PC Kits, the latest Extreme Mini PC kits from Intel, provide incredible performance with up to an 12th Gen Intel Core i9 Processor and support full length discrete graphics to provide gamers, streamers and content creators with the ultimate experience – all while saving desk space in a small 8L form factor.
+
+· **What’s new in Dragon Canyon compared to Beast Canyon?**
+
+Intel® NUC 12 Extreme Mini PC Kits accommodate socketed 65W 12th Gen Intel Core i9 and i7 processors for the first time and support up to a 12-inch Gen5 Discrete Graphics card, up to three PCIe Gen4 NVMe SSDs, and feature 10GbE LAN.
+
+· **What is the Intel Eden Bay Compute Element?**
+
+The Intel NUC Compute Element is a modular component that packs the latest processor and technologies from Intel. Customers can integrate the compute element into their own chassis to quickly build their own gaming rig.
+
+· **Which Intel Compute Elements are compatible with Dragon Canyon?**
+
+The NUC12DCMi9/i7 are the primary usage targets for Dragon Canyon. We do not intend to sell the chassis on its own without the element installed in it.
+
+https://preview.redd.it/wzgro5u3zsk81.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;v=enabled&amp;s=2fd393869cba818834d163e4b9ca71b6c469cb7d
+
+https://preview.redd.it/le6b86d4zsk81.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;v=enabled&amp;s=c8b1c54112d0c9ff66957f703f4fe8c2590a4a67
+
+**Alright - your turn! Ask away.**",IntelTechnology,26,23,https://old.reddit.com/r/intel/comments/t4cjmw/ama_intel_nuc_12_extreme_kit_today_from_900am_to/
+1635180351.0,Pat Gelsinger - An Open Letter to an Open Ecosystem,"  
+
+
+https://preview.redd.it/rirsw6x3lmv71.png?width=1398&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=775903f9fbd6d05e2239486d3e4de88851f064e1
+
+When I joined Intel at the age of 18, I was deeply inspired – frankly, awestruck – at the prospect of working for a company with technology that can create a positive impact for so many people around the world. Forty years later, I still feel this way. And I believe this level of impact and depth of purpose should be open to all technologies, including every developer and every company.
+
+Innovation thrives in an open, democratized environment where people can connect, communicate, and respond together to new stimuli. Back in 1997, I introduced the Intel Developer Forum to bring together a diverse audience of developers, partners, and customers to shape the future of cross-platform technologies. This free exchange increased our ability to learn from one another.
+
+[Continues](https://www.linkedin.com/pulse/open-letter-ecosystem-pat-gelsinger/?trackingId=BYl5saRm2A3qWoJhD55VlQ%3D%3D)",IntelTechnology,22,75,https://old.reddit.com/r/intel/comments/qfkwdj/pat_gelsinger_an_open_letter_to_an_open_ecosystem/
+1635351746.0,The Intel Z690 chipset moves more data (between more devices) faster than ever,"With every processor generation, we build faster, more effective compute engines. Sometimes the extra performance comes from adding cores to our designs, increasing their capacity for solving problems in parallel. Sometimes we can get those cores to finish work in less time by operating at higher frequencies, refining the architecture, or both. And some boosts are the product of groundbreaking technologies like our AI-based Gaussian Neural Accelerator 2.0, which accelerates AI speech and audio applications while freeing up resources for general purpose computing. 
+
+Regardless of where the performance comes from, we’re constantly moving data at higher velocities. The new 12th Generation Intel Core processor family is a prime example. Codenamed Alder Lake, it supercharges I/O with a revolutionary core design and leads the transition to both DDR5 memory and PCI Express 5.0.
+
+Keeping those pipes fed with a fast flow of data requires a platform built to accommodate more storage, higher-speed networking, and better peripheral connectivity. The 12th Gen Core family debuts with a lineup of unlocked desktop processors paired with the Intel Z690 Platform Controller Hub (PCH). This all-new chipset offers more I/O at higher speeds along with a rich feature set and overclocking options. Together with the CPU, it enables an ideal platform for gamers, content creators, and enthusiasts who want the latest technology.
+
+https://preview.redd.it/1n7nitlgq0w71.png?width=622&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=4a2c59205ab65877fb4c6eadaf8b84a857bd8bea
+
+**Higher performance starts with a faster Direct Media Interface**
+
+The Direct Media Interface (DMI) is the highway between our host processors and chipsets. This connection carries data from almost every device plugged into your PC, so it needs to be performant. 
+
+Last generation, we doubled the DMI’s maximum throughput compared to the generation prior by widening its pathway to eight lanes. This time around, we’re doubling available bandwidth again, this time by the data rate for each lane. The eight-lane interface can now move nearly 16 GB/s.
+
+**Expanding PCI Express puts more devices on the menu**
+
+Unconstrained by DMI bandwidth, we were able to grow the Z690’s capabilities without worrying about bottlenecks. First on the list was more–and faster–PCI Express to accommodate drop-in upgrades, integrated peripherals, and high-performance devices. 
+
+Our 12th Generation Core processors already break new ground with 16 lanes of PCI Express 5.0 and four lanes of PCI Express 4.0 all connected directly to the processor. Discrete graphics cards and fast SSDs benefit the most from this direct connection.
+
+There’s more room to expand with the PCH. Up to 12 lanes of PCI Express 4.0 accommodate cutting-edge components like the latest M.2 SSDs, while up to 16 lanes of PCI Express 3.0 can be divvied up between expansion slots, networking, and on-board controllers that don’t need quite as much bandwidth. Like with the Alder Lake processor, supporting multiple PCIe generations on the same chipset allows the platform to balance the bandwidth requirements of different devices.
+
+**High-Speed I/O proves more flexibility for motherboards**
+
+Flexible High Speed I/O (HSIO) technology slices the PCH’s available connectivity into general purpose lanes that can then be assigned specific roles. For example, one HSIO lane could become a PCI Express x1 slot. Another lane might be used to power a USB 3.2 Gen 1x1 port. Would you prefer USB 3.2 Gen 2x2 instead? That’s a much faster interface, so reaching its maximum speed requires the bandwidth of two HSIO lanes.
+
+Motherboards can use the Z690’s Flexible HSIO lanes to maximize PCI Express connectivity, though most will mix in a combination of networking, SATA, and USB as well. 
+
+The platform accommodates up to eight Serial ATA 6 Gb/s ports. It naturally carries over Intel Rapid Storage Technology, which supports with RAID for SATA and PCIe NVMe SSDs, plus Matrix RAID, which allows combining multiple RAID levels on any set of drives. Intel Optane Memory is supported, as well.
+
+Integrated wireless networking receives an upgrade to Wi-Fi 6E, expanding the Wi-Fi 6 standard into a brand new 6GHz band. Used exclusively by other Wi-Fi 6E devices, this extra spectrum addresses congestion and interference issues common on the 2.4GHz and 5GHz bands. As a result, Z690-based platforms with Intel Wi-Fi 6E AX210 or Killer Wi-Fi 6E AX1675 modules can enjoy higher speeds and greater capacity on compatible networks.
+
+For those who prefer hard-wired network connections, an optional 2.5 Gb/s Ethernet controller provides a faster alternative to Gigabit Ethernet.
+
+There’s also plenty of capacity for USB devices. The Z690 PCH natively offers up to four 20 Gb/s USB 3.2 Gen 2x2 ports for high-performance peripherals—more than any prior Intel chipset—plus as many as 10 USB 3.2 Gen 2x1 and 10 USB 3.2 Gen 1x1 ports. Motherboard makers can conserve Flexible HSIO lanes by providing lower-bandwidth ports for things like mice, keyboards, and headsets, while saving wider links for devices like external SSDs that can read and write multiple gigabytes of data per second.
+
+**Lots of options for high-speed connections with Thunderbolt 4**
+
+The chipset’s expanded connectivity and faster processor link pair well with ultra-high-speed interfaces like Thunderbolt 4 and USB4. The Intel JHL8540 Thunderbolt 4 controller, codenamed Maple Ridge, supports data transfers at up to 40 Gb/s, display outputs to a pair of 4K monitors, and up to 100W of power for your devices. It’s USB4-compliant, too.
+
+Thunderbolt 4 delivers several significant upgrades compared to its predecessor. While it offers the same peak interface bandwidth as Thunderbolt 3, the latest standard has a higher minimum requirement for the PCI Express connection to the host system, which means more guaranteed throughput to high-performance devices like external graphics and storage. VT-d-based DMA protection is designed to improve the security of Thunderbolt 4 by blocking unauthorized access to system memory. And a new wake from sleep feature allows docked peripherals to bring your PC back from hibernation with the stroke of a key or click of a mouse button.
+
+**Primed for overclocking out of the gate**
+
+The Z690 is optimized for enthusiasts, so motherboards based on the chipset can support the full collection of overclocking controls available in compatible Alder Lake processors. Unlocked 12th Gen Core processors feature a wide range of tweaking options, including P- and E-core tuning, BCLK adjustments, Intel Dynamic Memory Boost, and XMP 3.0 profiles for DDR5 memory.
+
+As with previous generations, the Z690 is part of a larger Intel 600 Series chipset family that will span a wide range of use cases, from desktop gaming to office productivity.
+
+**Notices &amp; Disclaimers**
+
+Performance varies by use, configuration and other factors. Learn more at [www.Intel.com/PerformanceIndex](http://www.intel.com/PerformanceIndex).
+
+Altering clock frequency or voltage may void any product warranties and reduce stability, security, performance, and life of the processor and other components. Check with system and component manufacturers for details​.​​
+
+\- Tech Team \[Intel\]",IntelTechnology,17,60,https://old.reddit.com/r/intel/comments/qh0fm1/the_intel_z690_chipset_moves_more_data_between/
+1666363665.0,AMA - Intel and Micro Center on the Intel 13th Gent Core Desktop Processors -October 21st 8:30am to 2:30 pm PDT,"# 
+
+https://preview.redd.it/qel8hcf296v91.png?width=791&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=233d516f2e146edcdf7a973c0295f2a7165203eb
+
+# Good morning r/intel!
+
+It feels like we have been launching this processor for a month but today now we can Finally talks numbers! Intel’s 13th Gen Core Desktop Processor – Code Name Raptor Lake - has officially launched and we have brought Intel experts to answer all the questions that you might have about its new upgraded cores, higher speeds, platform features etc.
+
+Also with us we have some folks from **Micro Center** who can help you with **all your PC hardware needs and any PC building questions you might have.**
+
+&amp;#x200B;
+
+https://preview.redd.it/pv1s5oscw2v91.png?width=1080&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=d3e24fb0c1d5376323e06c517a271df4d63cdb2b
+
+**HERE is a link to**  [**Micro Center**](https://www.microcenter.com/site/content/intel-gen13.aspx?utm_campaign=intel) webpage
+
+**You can also Configure an 13th Gen Intel® desktop processor-based** PC build using the **Microcenter Custom PC Builder Tool.** [https://www.microcenter.com/site/content/custom-pc-builder-intel.aspx?utm\_campaign=intel](https://www.microcenter.com/site/content/custom-pc-builder-intel.aspx?utm_campaign=intel) 
+
+# The Subject Experts on The Thread:
+
+**Intel**
+
+* **Scott Rouse** – Platform      Manager: *El Capitan*
+* **Nema B** – Product      Manager Engineer: *Princess of IO*
+* **Aaron M** – Engineer      Tech Lead (He gets you the cool CPU features)
+* **Dan R** – Principal      Engineer (Overclocking Master &amp; Commander)
+* **Alejandro (Lex) H** – Tech Evangelist: *¡El Guapo!*
+
+**Micro Center**
+
+· **Matt Herman (Micro Center):** His first computer was an Atari 800 which his father bought him when he was 12 years old.  Matt has, over the last 20 years, built many PC’s and uses these integrally with his Photo/Video hobbies, gaming, benchmarking, and he loves to overclock.  Matt has been with Micro Center for the past 19 years and is responsible for Visual Merchandising and Store Design for the company.
+
+· **Michael Belcher (Micro Center):** My first started building PC's around 21 years ago at the age of 8 after my father got me and my brothers into computers while he was in the Navy. My first PC was a dual core Gateway PC with a locked motherboard and processor. I quickly became interested in overclocking after browsing forums like Overclock.net and after learning I couldn't overclock my Gateway, I killed my father’s power supply while he was at work trying to overclock his old Q6600.  I've written a few guides across multiple tech forums on memory overclocking and it has come in handy not just for my hobby but also for my various roles
+
+# Here is Some Basic Info and Questions:
+
+https://preview.redd.it/g21ynuu6z2v91.png?width=975&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=6b82a06bee3afd648b7119e1dbfab1db87eedb87
+
+https://preview.redd.it/ee8rrub8z2v91.png?width=975&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=a2d2a3ff268e9005f1849c4de97c90da1f2c6004
+
+**Why did Intel decide to bump up the E-core count on 13th Gen rather than the P-core count?**
+
+The design of our E-cores gives us a great combination of both performance and power efficiency – delivering the same frequencies as our original Skylake cores but at significantly lower power. This lets us increase core count and overall performance of our 13th Gen Intel Core desktop processors gen-over-gen while still keeping power budget in-line with our 12th Gen Intel Core desktop processors.
+
+Combined with new improvements such as increased L2 cache in the E-cores and an improved prefetcher algorithm, our E-cores are delivering great performance in our 13th Gen Intel Core desktop processors.
+
+**Does the new 13th Gen Intel® Core™ desktop processor family support AVX-512 instruction sets?**
+
+The Performance Hybrid architecture consists of two core types – Performance-cores and the Efficient-cores - to maximize the single/lightly-thread and multi-thread performance of the processor. The Efficient-cores are not designed to execute the AVX512 instruction set, but 13th Gen Intel Core will support AVX2, VNNI and other instruction sets that are more applicable to client workloads.
+
+AVX-512 is an important instruction set that Data Center solutions will support.
+
+**What are the benefits of increasing the L2/L3 cache in 13th Gen Intel Core desktop processors?**
+
+The increased capacity – along with improved data prefetching – in L2/L3 cache for certain 13th Gen Intel Core desktop processor SKUs helps boost our desktop processor performance to new heights for users.
+
+The cache improvements Intel has made to both the P-cores and E-cores in its 13th Gen desktop processors is showing up in both single-threaded (ST) and multi-threaded (MT) performance numbers gen-over-gen – helping users game, create and work better than ever before. In fact, we’re seeing the cache improvements contributing \~2-4% on average to overall ST and MT performance uplift. We’ve even seen in some specific tests the cache improvements contributing up to 16% to overall performance uplift gen-over-gen!
+
+The cache improvements Intel has made to its 13th Gen desktop processors is focused on making it both larger and smarter at the same time – powering the best desktop processor experience available on the market today.
+
+**Alright - your turn! Ask away!**
+
+Lex H. \[Intel\]",IntelTechnology,149,67,https://old.reddit.com/r/intel/comments/y9vmsn/ama_intel_and_micro_center_on_the_intel_13th_gent/
+1643299991.0,TODAY! AMA from 8:30am to 3:00 pm PST - 12th Gen Intel® Core™ H-Series Processors,"**Good morning** r/intel\*\*!\*\*
+
+Intel’s 12th Gen Core™ H-Series Mobile Processors – Alder Lake Architecture – Have launched and we have Intel experts here with us that are more than happy to answer any questions that you might have about this new processor and its mobile platform.
+
+**3rd PARTY REVIEWS (or go to your favorite one, they are out!)**\- [AnandTech](https://www.anandtech.com/show/17223/intel-alder-lake-h-core-i9-12900hk-review-msi-raider-ge76-goes-hybrid/7)
+
+\-[ArsTechnica](https://arstechnica.com/gadgets/2022/01/testing-intels-12th-gen-alder-lake-laptop-cpus-many-cores-make-light-work/)
+
+\-[HotHardware](https://amp.hothardware.com/reviews/core-i9-12900hk-msi-ge76-raider-review)
+
+\-[LinusTechTips](https://www.youtube.com/watch?v=4zXNMQCPv30)
+
+\-[DAVE2D](https://www.youtube.com/watch?v=VHUF8A2vpos)
+
+**THE SUBJECT EXPERTS ON THE THREAD:**
+
+• Dan – Director, Mobile Products
+
+• Colin – GTM, Enthusiast Mobile
+
+• Nick – Technical Marketing Engineering
+
+• Alejandro (Lex) - Tech Evangelist
+
+FYI- Mobile in “Intel Speak” means laptops 😊
+
+**Dan**: *I joined Intel in 2009 as a thermal-mechanical engineer. Spent ten years in sales supporting major customers in Taiwan and California. Product Manager for Alder Lake Mobile for the last two years. Obsessed with silicon performance. Not bad at OG SC*
+
+**Nick:** *I started at Intel in 1997 working in IT. After a decade in IT supporting everything from laptops to servers I made a shift to validation. My first validation position was on Intel's first Ultrabooks where I had the opportunity to disassemble and tear down all the new laptops coming to the market. Having been a PC gamer my entire life I jumped at the opportunity to become the Technical Marketing Engineer for the product team delivering H-series processors for GAMING laptops!! It's been an amazing 4 years supporting our H-series lineup and being amazed at how far gaming has come. Currently I've been playing a lot of ARMA III with my friends and Team fight tactics over lunch with coworkers.*
+
+**Colin**:  *I joined Intel in 1999. I have experience in many parts of Intel’s business having worked in IT, sales, and my current role in product marketing. I’ve been a PC gamer many years and have worked on various Intel products including Intel 5th through 7h Gen Core. Currently, I drive launch activity for our enthusiast mobile platforms and the all-new 12th Gen Core H Series. My current gaming rig is a 11980HK with RTX3080 mobile platform, but I plan to move to 12th Gen quickly for gaming*
+
+**Alejandro (Lex):** *I joined Intel in 2005 as an Analog Electrical Engineer worked on SATA, PCIE and DMI interfaces for the PCH. In 2011 I move over to technical marketing and now I am Tech Evangelist and Community manager. I spend most of 15 years at work building systems for gaming events, shows, friends and family. My Current gaming rig is a Core i9 10900K with a 2080Ti, which I would be soonish upgrading to the 12900K. I hang around CoD Warzone and try not to spawn too much.*
+
+Here is some basic information to get you folks started:
+
+**What’s new in these 12th Gen Intel® Core™ H-series processors?**
+
+Platform improvements in this generation include:
+
+* NEW DDR5/LPDDR5 (up to 4800MHz/5200MHz) C
+* Continuing with DDR4 (up to 3200MHz/LPDDR4 4267MHz)
+* NEW CPU PCIe 4.0 up to 16 lanes
+* NEW Integrated Intel® Wi-Fi 6E (Gig+) support
+* ENHANCED Display, Media, and Graphics Features for premium content support
+* ENHANCED Core overclocking when compared to 11th Gen H-series
+* NEW x8 DMI 2.0 lanes
+* NEW Thread Director - Hardware Guided Scheduling Support
+* Featured improvements include:
+* Intel® Deep Learning Boost​
+* Xe Graphics Architecture
+* Discrete Intel® Thunderbolt™ 4 (USB4 compliant)
+* ECC Memory Support​
+* Intel® Gaussian &amp; Neural Accelerator 3.0 (GNA)​
+
+&amp;#x200B;
+
+https://preview.redd.it/e3qfx5od89e81.png?width=782&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=de756fe612761026048d4e8afbfb46cdcb97ff55
+
+https://preview.redd.it/a6vagcmc89e81.png?width=961&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=aac491798937db66aa7942d7c1ba878875775b95
+
+https://preview.redd.it/4savtijkj9e81.jpg?width=4000&amp;format=pjpg&amp;auto=webp&amp;v=enabled&amp;s=27ad1894042de723c892d1f6749487ab9d3593b6
+
+**Alright - your turn! Ask away.**
+
+Lex H - Intel",IntelTechnology,61,71,https://old.reddit.com/r/intel/comments/se1xxx/today_ama_from_830am_to_300_pm_pst_12th_gen_intel/
+1635350423.0,[MEGATHRED] IntelON &amp; 12th Gen Core Processor,"&amp;#x200B;
+
+https://preview.redd.it/amulb3iwd0w71.png?width=782&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=fa125fa55ad8df24fb72165b8756134da107cf18
+
+Intel Innovation, the first event in the new [Intel ON](https://www.intel.com/content/www/us/en/events/on-event-series.html) series, will kick off with a keynote presentation at 9 a.m. PDT Wednesday, Oct. 27. The two-day event will focus on Intel’s latest technologies to deliver artificial intelligence, 5G, edge, cloud, connectivity and PC solutions with speed and real-world scale
+
+Speakers at the keynote — broadcast live from Fort Mason in San Francisco — Intel CEO Pat Gelsinger; Gregory Bryant, general manager of the Client Computing Group; Sandra Rivera, general manager of the Datacenter and AI Group; Nick McKeown, general manager of the Network and Edge Group; and Greg Lavender, chief technology officer and general manager of the Software and Advanced Technology Group
+
+I'll be updating this thread during day, enjoy!
+
+Reddit exclusive:
+
+**12th Gen Intel Core Desktop**   
+[https://www.reddit.com/r/intel/comments/qh04ly/the\_12th\_generation\_intel\_core\_lineup\_starts\_with/](https://www.reddit.com/r/intel/comments/qh04ly/the_12th_generation_intel_core_lineup_starts_with/)
+
+**Intel Z690 Chipset**  
+[https://www.reddit.com/r/intel/comments/qh0fm1/the\_intel\_z690\_chipset\_moves\_more\_data\_between/](https://www.reddit.com/r/intel/comments/qh0fm1/the_intel_z690_chipset_moves_more_data_between/)
+
+Intel Newsroom
+
+**12th Gen Intel Core Desktop Processors**[https://www.intel.com/content/www/us/en/newsroom/news/12th-gen-core-processors.html#gs.eqyshk](https://www.intel.com/content/www/us/en/newsroom/news/12th-gen-core-processors.html#gs.eqyshk)
+
+**Developer/oneAPI News**[https://www.intel.com/content/www/us/en/newsroom/news/innovation-developers-news.html#gs.eqyz5d](https://www.intel.com/content/www/us/en/newsroom/news/innovation-developers-news.html#gs.eqyz5d)
+
+**Ubiquitous Computing News:**[https://www.intel.com/content/www/us/en/newsroom/news/innovation-computing-news.html](https://www.intel.com/content/www/us/en/newsroom/news/innovation-computing-news.html)
+
+**Artificial Intelligence:**[https://www.intel.com/content/www/us/en/newsroom/news/innovation-artificial-intelligence-news.html](https://www.intel.com/content/www/us/en/newsroom/news/innovation-artificial-intelligence-news.html)
+
+**Cloud-Edge Infrastructure News:**[https://www.intel.com/content/www/us/en/newsroom/news/innovation-cloud-edge-news.html](https://www.intel.com/content/www/us/en/newsroom/news/innovation-cloud-edge-news.html)
+
+**Pervasive Connectivity News:**[https://www.intel.com/content/www/us/en/newsroom/news/innovation-connectivity-news.html](https://www.intel.com/content/www/us/en/newsroom/news/innovation-connectivity-news.html)
+
+**- Lex H \[Intel\]**",IntelTechnology,92,30,https://old.reddit.com/r/intel/comments/qgzxuo/megathred_intelon_12th_gen_core_processor/
+1635350918.0,The 12th Generation Intel Core line-up starts with unlocked desktop processors," 
+
+**The** **12th** **Generation Intel Core** **line-up** **starts with unlocked** **desktop** **processors**   
+ 
+
+Do you want a PC built for maximum speed or efficiency? With 12th Generation Intel Core processors, codenamed Alder Lake, you get both.  
+
+Alder Lake introduces an innovative performance hybrid architecture that combines two types of cores in a single package. Performance-cores handle the heavy lifting; they’re wider, deeper, and more intelligent than the previous generation, driving an average 19% performance improvement at the same frequency1. Efficient-cores are optimized for power and density, but they’re still incredibly potent. Four E-cores have 80% higher throughput than two Hyper-Threaded cores based on the iconic Skylake architecture, while using less power1.  
+
+P-cores and E-cores combine with other building blocks, such as cache memory and on-die accelerators, in a flexible architecture designed to scale across multiple form factors. The first Alder Lake processors are designed for the high-performance desktops used by gamers, creators, and enthusiasts. These six chips are fully unlocked, allowing overclockers2 to adjust frequencies, voltages, and other settings when using compatible motherboards based on the new Intel Z690 chipset. 
+
+Our unlocked 12th Gen Core processors also share several other elements. PCI Express is split between 16 lanes of Gen 5 connectivity and four lanes of Gen 4, providing options for high-speed graphics and storage. All the chips have a base power rating of 125W but can scale higher with Turbo engaged. And they all work with both next-gen DDR5-4800 memory and more common DDR4-3200 RAM, though individual motherboards support one or the other. 
+
+There are effectively two versions of each processor. Models ending with K integrate Intel UHD Graphics 770 based on the Xe-LP architecture. They have 32 graphics execution units along with fixed-function media blocks for accelerating video encode, decode, and 3D workloads. Processor models ending in KF lack this integrated GPU functionality and must be paired with a discrete graphics card.   
+
+https://preview.redd.it/o3q6pex5o0w71.png?width=665&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=3b100b22d36ce57046adf3a866adbceb066ffd1a
+
+**Bring out the big guns** **with** **the** **Core i9’s** **full battery of P-cores and E-cores** 
+
+Enthusiasts who spend time editing videos, streaming their favorite games, working in rendering software, or multitasking across several monitors should train their attention on the Core i9. They lead the lineup with eight Hyper-Threaded P-cores and eight E-cores that combine to execute up to 24 threads concurrently. 
+
+The Core i9-12900K and Core i9-1200KF run their P-cores at a 3.2GHz base frequency. Turbo Boost Technology 2.0 can drive that clock up to 5.1GHz in single-threaded workloads, while Turbo Boost Max Technology 3.0 identifies the fastest cores and adds another 100MHz of headroom, pushing up to 5.2GHz. The E-cores have a lower 2.4GHz base frequency to optimize power consumption. However, they support Turbo Boost 2.0, enabling clock rates as high as 3.9GHz in lightly threaded tasks.  
+
+With 14MB of combined L2 cache and 30MB of Intel Smart Cache (L3), the Core i9s have more on-die memory than the rest of the family. Greater resources combine with higher clocks to push the maximum Turbo Boost power limit up to 241W. 
+
+**Lean into performance with** **two** **Core i7** **options** 
+
+Like the Core i9 models, the Core i7s offer a single configuration of compute resources: eight Hyper-Threaded P-cores complemented by four E-cores for crunching background tasks. They can field up to 20 threads in parallel and have 37MB of total cache split between 12MB of L2 and 25MB of L3. 
+
+Core i7-12700K and Core i7-12700KF enjoy higher base frequencies than the fastest Core i9 models. Their P-cores operate at 3.6GHz, while their E-cores are clocked at 2.7GHz. Turbo Boost 2.0 can push the P-core clock rate up to 4.9GHz, which Turbo Boost Max Technology 3.0 bumps up to an even 5GHz with single-threaded tasks running on the fastest cores. The E-cores can spin up to 3.8GHz thanks to Turbo Boost.  
+
+Although the Core i7s have a 125W base power rating in common with the Core i9s, they employ a lower 190W Turbo Boost limit. 
+
+**Shift the balance** **with unlocked** **Core i5** **processors** 
+
+Savvy enthusiasts can count on the Core i5 series for exceptional value. The Core i5-12600K and Core i5-12600KF have a unique combination of six Hyper-Threaded P-cores and four E-cores that team up to process 16 threads simultaneously. A 3.7GHz base clock rate ensures snappy performance from the P-cores under heavily threaded workloads. Less intensive tasks benefit from Turbo Boost Technology 2.0, which can take a single P-core up to 4.9GHz. The E-cores get a higher 2.8GHz base frequency that Turbo Boost can crank as high as 3.6GHz.  
+
+The Core i5-12600K and i5-12600KF both feature 9.5MB of aggregate L2 cache, plus 20MB of last-level Intel Smart Cache. Despite fewer cores, they maximize connectivity and bandwidth with the same PCI Express and memory config as higher-end Core i7 and Core i9 CPUs. The maximum Turbo power is only 150W, but overclockers are of course free to push higher on compatible motherboards. 
+
+**Unlock potential at every level** 
+
+Alder Lake is built for higher performance, greater efficiency, and the latest memory and I/O. The first wave of desktop derivatives spans Core i5, i7, and i9 configurations that are all fully unlocked for overclocking to provide gamers, creators, and enthusiasts with a versatile platform they can push even further. 
+
+**Notices &amp; Disclaimers** 
+
+Performance varies by use, configuration and other factors. Learn more at [www.Intel.com/PerformanceIndex](http://www.intel.com/PerformanceIndex). 
+
+1. For P-core and E-core workloads and configurations visit [www.intel.com/ArchDay21claims](http://www.intel.com/ArchDay21claims). 
+2. Altering clock frequency or voltage may void any product warranties and reduce stability, security, performance, and life of the processor and other components.  Check with system and component manufacturers for details​.​​ 
+
+\- Tech Team \[Intel\]",IntelTechnology,11,25,https://old.reddit.com/r/intel/comments/qh04ly/the_12th_generation_intel_core_lineup_starts_with/
